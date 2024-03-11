@@ -11,19 +11,19 @@
 #- http://www.github.com/oomlout/oomp_base_electrical_image
 #- http://www.github.com/oomlout/oomp_base_electrical_three_d_model
 ## electronic
-# - http://www.github.com/oomlout/oomp_base_electronic
+#- http://www.github.com/oomlout/oomp_base_electronic
 #- http://www.github.com/oomlout/oomp_base_electronic_datasheet
 #- http://www.github.com/oomlout/oomp_base_electronic_drawing
 #- http://www.github.com/oomlout/oomp_base_electronic_image
 #- http://www.github.com/oomlout/oomp_base_electronic_three_d_model
 ## hardware
 - http://www.github.com/oomlout/oomp_base_hardware
-#- http://www.github.com/oomlout/oomp_base_hardware_datasheet
-#- http://www.github.com/oomlout/oomp_base_hardware_drawing
-#- http://www.github.com/oomlout/oomp_base_hardware_image
-#- http://www.github.com/oomlout/oomp_base_hardware_three_d_model
+- http://www.github.com/oomlout/oomp_base_hardware_datasheet
+- http://www.github.com/oomlout/oomp_base_hardware_drawing
+- http://www.github.com/oomlout/oomp_base_hardware_image
+- http://www.github.com/oomlout/oomp_base_hardware_three_d_model
 ## mechanical
-# - http://www.github.com/oomlout/oomp_base_mechanical
+#- http://www.github.com/oomlout/oomp_base_mechanical
 #- http://www.github.com/oomlout/oomp_base_mechanical_datasheet
 #- http://www.github.com/oomlout/oomp_base_mechanical_drawing
 #- http://www.github.com/oomlout/oomp_base_mechanical_image
@@ -35,11 +35,11 @@
 #- http://www.github.com/oomlout/oomp_base_oobb_image
 #- http://www.github.com/oomlout/oomp_base_oobb_three_d_model
 ## packaging
-#- http://www.github.com/oomlout/oomp_base_packaging
-#- http://www.github.com/oomlout/oomp_base_packaging_datasheet
-#- http://www.github.com/oomlout/oomp_base_packaging_drawing
-#- http://www.github.com/oomlout/oomp_base_packaging_image
-#- http://www.github.com/oomlout/oomp_base_packaging_three_d_model
+- http://www.github.com/oomlout/oomp_base_packaging
+- http://www.github.com/oomlout/oomp_base_packaging_datasheet
+- http://www.github.com/oomlout/oomp_base_packaging_drawing
+- http://www.github.com/oomlout/oomp_base_packaging_image
+- http://www.github.com/oomlout/oomp_base_packaging_three_d_model
 ## storage
 #- http://www.github.com/oomlout/oomp_base_storage
 #- http://www.github.com/oomlout/oomp_base_storage_datasheet
