@@ -26,6 +26,16 @@ outputs:
       - webpage_manufacturer_metalmate 
       - price_current
       - name_manufacturer_metalmate
+      - project_bolt_tray_capacity_oobb_6_width_2_5_length_18_mm_depth
+      - project_bolt_tray_capacity_oobb_6_width_2_5_length_18_mm_depth_weight
+      - project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth
+      - project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight
+      - project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth
+      - project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth_weight      
+      - weight_10
+      - weight
+
+
 
 
 
