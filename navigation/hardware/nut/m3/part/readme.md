@@ -149,6 +149,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | price_200 | 0.0016 |  
 | price_200_distributor_orbital_fasteners | 0.0016 |  
 | price_current | 0.0016 |  
+| project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 125 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 250 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 79.66666667 |  
 | quantity_current | 1000 |  
 | short_code | num3 |  
 | short_code_upper | NUM3 |  
@@ -216,3 +219,5 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_6 | NUT |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-mild-steel-hexagon-full-nuts-bright-zinc-plated |  
 | webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m39 |  
+| weight | 0.318666667 |  
+| weight_10 | 3.186666667 |  

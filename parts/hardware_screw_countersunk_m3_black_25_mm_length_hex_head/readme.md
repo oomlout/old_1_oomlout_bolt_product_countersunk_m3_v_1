@@ -238,6 +238,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | price_200 | 0.0294 |  
 | price_200_distributor_orbital_fasteners | 0.0294 |  
 | price_current | 0.0294 |  
+| project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 20 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 40 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 47.84 |  
 | quantity_current | 200 |  
 | short_code | scsm3b |  
 | short_code_upper | SCSM3B |  
@@ -305,3 +308,5 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
 | webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025 |  
+| weight | 1.196 |  
+| weight_10 | 11.96 |  
