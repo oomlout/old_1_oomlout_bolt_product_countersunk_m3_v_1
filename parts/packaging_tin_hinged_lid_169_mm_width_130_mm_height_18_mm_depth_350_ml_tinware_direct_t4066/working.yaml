@@ -8,8 +8,6 @@ color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
-cost_per: "\xA30.79"
-cost_per_10: "\xA30.79"
 depth_internal:
 - 18 mm
 description_extra: ''
@@ -78,6 +76,9 @@ part_number_capital: T4066
 part_number_first_letter: t
 part_number_first_letter_upper: T
 part_number_upper: T4066
+price_1: "\xA30.79"
+price_10: "\xA30.79"
+price_current: "\xA30.79"
 short_code: ''
 short_code_upper: ''
 size: 169_mm_width_130_mm_height_18_mm_depth_350_ml

@@ -8,8 +8,9 @@
     "manufacturer": "tinware_direct",
     "part_number": "t4066",
     "make_files": true,
-    "cost_per": "\u00a30.79",
-    "cost_per_10": "\u00a30.79",
+    "price_1": "\u00a30.79",
+    "price_10": "\u00a30.79",
+    "price_current": "\u00a30.79",
     "link_purchase": [
         "https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726837358619"
     ],

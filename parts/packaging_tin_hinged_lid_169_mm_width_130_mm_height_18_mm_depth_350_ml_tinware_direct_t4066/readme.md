@@ -65,8 +65,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
-| cost_per | £0.79 |  
-| cost_per_10 | £0.79 |  
 | depth_internal | ['18 mm'] |  
 | description_extra |  |  
 | description_extra_capital |  |  
@@ -177,6 +175,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_upper_length_4 | T406 |  
 | part_number_upper_length_5 | T4066 |  
 | part_number_upper_length_6 | T4066 |  
+| price_1 | £0.79 |  
+| price_10 | £0.79 |  
+| price_current | £0.79 |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 169_mm_width_130_mm_height_18_mm_depth_350_ml |  
