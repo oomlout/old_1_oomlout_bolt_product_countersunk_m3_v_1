@@ -54,8 +54,8 @@
     "name_no_class": "Nut M3",
     "name_no_type": "M3",
     "name_no_size": "M3",
-    "short_code": "num3",
-    "short_code_upper": "NUM3",
+    "short_code": "nu3",
+    "short_code_upper": "NU3",
     "distributors": [],
     "manufacturers": [],
     "md5": "632d2f1cf592d38bafebf6dcced02499",
@@ -86,6 +86,6 @@
     "name_no_size_short": "M3",
     "description_or_color": " ",
     "description_or_color_upper": " ",
-    "markdown_full": "[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[num3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware Nut M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>",
+    "markdown_full": "[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware Nut M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>",
     "markdown_short": "[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>"
 }

@@ -54,8 +54,8 @@
     "name_no_class": "Screw Countersunk M3 Black 8 Mm Length Hex Head",
     "name_no_type": "M3 Black 8 Mm Length Hex Head",
     "name_no_size": "Black 8 Mm Length Hex Head",
-    "short_code": "scsm3b",
-    "short_code_upper": "SCSM3B",
+    "short_code": "cs3b8h",
+    "short_code_upper": "CS3B8H",
     "distributors": [],
     "manufacturers": [],
     "md5": "9dcc1b0001bd8dcf9c81e228418a1578",
@@ -86,6 +86,6 @@
     "name_no_size_short": "Black 8 Mm Length Hex Head",
     "description_or_color": "B8",
     "description_or_color_upper": "B8",
-    "markdown_full": "[hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 8 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br>",
+    "markdown_full": "[hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[cs3b8h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 8 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br>",
     "markdown_short": "[hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br>"
 }

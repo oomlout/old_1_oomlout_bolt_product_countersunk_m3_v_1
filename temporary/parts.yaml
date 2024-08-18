@@ -44,7 +44,7 @@ hardware_nut_m3:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[num3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware
+  markdown_full: '[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware
     Nut M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>'
   markdown_short: '[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>'
   md5: 632d2f1cf592d38bafebf6dcced02499
@@ -96,8 +96,8 @@ hardware_nut_m3:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '250'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '79.66666667'
   quantity_current: '1000'
-  short_code: num3
-  short_code_upper: NUM3
+  short_code: nu3
+  short_code_upper: NU3
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -160,7 +160,7 @@ hardware_screw_countersunk_m3_black_10_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_10_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_10_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_10_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_10_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_10_mm_length_hex_head/working)<br>[cs3b10h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_10_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 10 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_10_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_10_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_10_mm_length_hex_head/working)<br><br>'
   md5: 3f4e7ae1acf1a6f88058f0f9da1067f5
@@ -213,8 +213,8 @@ hardware_screw_countersunk_m3_black_10_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '110'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '57.64'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b10h
+  short_code_upper: CS3B10H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -277,7 +277,7 @@ hardware_screw_countersunk_m3_black_12_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_12_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_12_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_12_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_12_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_12_mm_length_hex_head/working)<br>[cs3b12h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_12_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 12 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_12_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_12_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_12_mm_length_hex_head/working)<br><br>'
   md5: ac9e1c526ff9755c186310ceed50276c
@@ -330,8 +330,8 @@ hardware_screw_countersunk_m3_black_12_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '90'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '54.72'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b12h
+  short_code_upper: CS3B12H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -390,7 +390,7 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_16_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_16_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[cs3b16h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 16 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_16_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br><br>'
   md5: 4d24ea2bbdf6e0962c50a0a7b694b8e4
@@ -441,8 +441,8 @@ hardware_screw_countersunk_m3_black_16_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '70'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '48.16'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b16h
+  short_code_upper: CS3B16H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -504,7 +504,7 @@ hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_20_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_20_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head/working)<br>[cs3b20h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 20 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_20_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head/working)<br><br>'
   md5: e5fda7192f83aa012e80a5d2ab4ad3c0
@@ -557,8 +557,8 @@ hardware_screw_countersunk_m3_black_20_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '50'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '48.25'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b20h
+  short_code_upper: CS3B20H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -621,7 +621,7 @@ hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head/working)<br>[cs3b25h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 25 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head/working)<br><br>'
   md5: 91b0ee42e7c44d0251b256f449341e19
@@ -674,8 +674,8 @@ hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '40'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '47.84'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b25h
+  short_code_upper: CS3B25H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -738,7 +738,7 @@ hardware_screw_countersunk_m3_black_6_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_6_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_6_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_6_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_6_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_6_mm_length_hex_head/working)<br>[cs3b6h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_6_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 6 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_6_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_6_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_6_mm_length_hex_head/working)<br><br>'
   md5: c5be8c6dfac86e376ca43e915477ae6e
@@ -791,8 +791,8 @@ hardware_screw_countersunk_m3_black_6_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '150'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.7'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b6h
+  short_code_upper: CS3B6H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -855,7 +855,7 @@ hardware_screw_countersunk_m3_black_8_mm_length_hex_head:
   manufacturer_first_letter_upper: ''
   manufacturer_upper: ''
   manufacturers: []
-  markdown_full: '[hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[Hardware
+  markdown_full: '[hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[cs3b8h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[Hardware
     Screw Countersunk M3 Black 8 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br>'
   markdown_short: '[hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br>'
   md5: 9dcc1b0001bd8dcf9c81e228418a1578
@@ -908,8 +908,8 @@ hardware_screw_countersunk_m3_black_8_mm_length_hex_head:
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '120'
   project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.4'
   quantity_current: '200'
-  short_code: scsm3b
-  short_code_upper: SCSM3B
+  short_code: cs3b8h
+  short_code_upper: CS3B8H
   size: m3
   size_capital: M3
   size_first_letter: m
@@ -1095,6 +1095,7 @@ three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf:
   part_number_first_letter: ''
   part_number_first_letter_upper: ''
   part_number_upper: ''
+  price_current: 0.015825000000000002
   price_per: 0.015825000000000002
   price_per_gram: 0.015825000000000002
   price_per_kilogram: 15.825
@@ -1113,6 +1114,7 @@ three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf:
   type_first_letter: f
   type_first_letter_upper: F
   type_upper: FILAMENT
+  weight: 1
 three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf:
   classification: three_d_printer
   classification_capital: Three D Printer
@@ -1184,6 +1186,7 @@ three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf:
   part_number_first_letter: ''
   part_number_first_letter_upper: ''
   part_number_upper: ''
+  price_current: 0.017491666666666666
   price_per: 0.017491666666666666
   price_per_gram: 0.017491666666666666
   price_per_kilogram: 17.491666666666667
@@ -1202,3 +1205,4 @@ three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf:
   type_first_letter: f
   type_first_letter_upper: F
   type_upper: FILAMENT
+  weight: 1

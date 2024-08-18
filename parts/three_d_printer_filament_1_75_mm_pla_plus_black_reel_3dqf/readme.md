@@ -196,6 +196,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_current | 0.017491666666666666 |  
 | price_per | 0.017491666666666666 |  
 | price_per_gram | 0.017491666666666666 |  
 | price_per_kilogram | 17.491666666666667 |  
@@ -264,3 +265,4 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_4 | FILA |  
 | type_upper_length_5 | FILAM |  
 | type_upper_length_6 | FILAME |  
+| weight | 1 |  

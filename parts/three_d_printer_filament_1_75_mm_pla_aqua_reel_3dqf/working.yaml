@@ -68,6 +68,7 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
+price_current: 0.015825000000000002
 price_per: 0.015825000000000002
 price_per_gram: 0.015825000000000002
 price_per_kilogram: 15.825
@@ -86,3 +87,4 @@ type_capital: Filament
 type_first_letter: f
 type_first_letter_upper: F
 type_upper: FILAMENT
+weight: 1

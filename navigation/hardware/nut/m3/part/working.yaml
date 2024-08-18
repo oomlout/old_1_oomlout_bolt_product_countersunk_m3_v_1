@@ -73,7 +73,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[num3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware
+markdown_full: '[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware
   Nut M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>'
 markdown_short: '[hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br>'
 md5: 632d2f1cf592d38bafebf6dcced02499
@@ -129,8 +129,8 @@ project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '125'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '250'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '79.66666667'
 quantity_current: '1000'
-short_code: num3
-short_code_upper: NUM3
+short_code: nu3
+short_code_upper: NU3
 size: m3
 size_capital: M3
 size_first_letter: m

@@ -104,7 +104,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[num3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware Nut M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br> |  
+| markdown_full | [hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[nu3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br>[Hardware Nut M3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br> |  
 | markdown_short | [hardware_nut_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3/working)<br><br> |  
 | md5 | 632d2f1cf592d38bafebf6dcced02499 |  
 | md5_10 | 632d2f1cf5 |  
@@ -153,8 +153,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 250 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 79.66666667 |  
 | quantity_current | 1000 |  
-| short_code | num3 |  
-| short_code_upper | NUM3 |  
+| short_code | nu3 |  
+| short_code_upper | NU3 |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

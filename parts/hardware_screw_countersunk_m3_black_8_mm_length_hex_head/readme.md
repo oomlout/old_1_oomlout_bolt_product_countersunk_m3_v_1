@@ -176,7 +176,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 8 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[cs3b8h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 8 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_countersunk_m3_black_8_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_8_mm_length_hex_head/working)<br><br> |  
 | md5 | 9dcc1b0001bd8dcf9c81e228418a1578 |  
 | md5_10 | 9dcc1b0001 |  
@@ -242,8 +242,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 120 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 53.4 |  
 | quantity_current | 200 |  
-| short_code | scsm3b |  
-| short_code_upper | SCSM3B |  
+| short_code | cs3b8h |  
+| short_code_upper | CS3B8H |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  

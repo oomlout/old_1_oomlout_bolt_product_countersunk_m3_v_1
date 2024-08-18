@@ -172,7 +172,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | manufacturer_name |  |  
 | manufacturer_upper |  |  
 | manufacturers | [] |  
-| markdown_full | [hardware_screw_countersunk_m3_black_16_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[scsm3b](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 16 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br><br> |  
+| markdown_full | [hardware_screw_countersunk_m3_black_16_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[cs3b16h](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br>[Hardware Screw Countersunk M3 Black 16 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br><br> |  
 | markdown_short | [hardware_screw_countersunk_m3_black_16_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head/working)<br><br> |  
 | md5 | 4d24ea2bbdf6e0962c50a0a7b694b8e4 |  
 | md5_10 | 4d24ea2bbd |  
@@ -237,8 +237,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 70 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 48.16 |  
 | quantity_current | 200 |  
-| short_code | scsm3b |  
-| short_code_upper | SCSM3B |  
+| short_code | cs3b16h |  
+| short_code_upper | CS3B16H |  
 | size | m3 |  
 | size_capital | M3 |  
 | size_first_letter | m |  
