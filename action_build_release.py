@@ -1,20 +1,20 @@
 import os
 
 def main(**kwargs):
-    #update repos
-    repos = []
-    repo = {
-            "url": "github.com/oomlout/oomlout_bolt_packaging_tin_hinged_lid_version_1"
-            }    
-    repos.append(repo)
-    repo = {
-            "url": "github.com/oomlout/oomlout_bolt_packaging_three_d_printed_version_3"
-            }
-    repos.append(repo)
+    # load configuration file
+    file_configuration = "configuration/generate_release.yaml"
+    import yaml
+    with open(file_configuration, 'r') as stream:
+        try:
+            configuration = yaml.safe_load(stream)
+        except yaml.YAMLError as exc:
+            print(exc)
+
+    repos = configuration["repo"]
 
     #clone all repos into temporary directory
     for repo in repos:
-        url = repo["url"]
+        url = repo
         #add https if not there
         if not url.startswith("https://"):
             url = f"https://{url}"
@@ -26,45 +26,16 @@ def main(**kwargs):
             os.system(f"cd {repo_dir} && git pull")
 
     #   copy the files to release directory
-    files_to_copy = []
+    files_to_copy = configuration["file"]
     ## hinged version
-    file = {
-            "source": "oomlout_bolt_packaging_tin_hinged_lid_version_1\\scad_output\\oobb_test_main_spacer_08_10_01_ex_width_start_129_height_start_169_depth_start_19\\3dpr.stl",
-            "destination": "release\\three_d_printer_files\\hinged_tin_version\\tin_spacer_quantity_2.stl"
-            }
-    files_to_copy.append(file)
-    file = {
-            "source": "\oomlout_bolt_packaging_three_d_printed_version_3\\scad_output\\oobb_oomlout_bolt_packaging_three_d_printed_version_1_tray_04_2d5_18\\3dpr.stl",
-            "destination": "release\\three_d_printer_files\\hinged_tin_version\\tray_oobb_4_width_2-5_length_18_mm_depth_quantity_8.stl"
-            }
-    files_to_copy.append(file)
-
-    ## three d printed version
-    file = {
-            "source": "oomlout_bolt_packaging_three_d_printed_version_3\\scad_output\\oobb_oomlout_bolt_packaging_three_d_printed_version_1_main_body_10_08_18\\3dpr.stl",
-            "destination": "release\\three_d_printer_files\\three_d_printed_version\\case_bottom_quantity_1.stl"
-            }
-    files_to_copy.append(file)
-
-
-    file = {
-            "source": "oomlout_bolt_packaging_three_d_printed_version_3\\scad_output\\oobb_oomlout_bolt_packaging_three_d_printed_version_1_lid_10_08_02\\3dpr.stl",
-            "destination": "release\\three_d_printer_files\\three_d_printed_version\\case_lid_quantity_1.stl"
-            }
-    files_to_copy.append(file)
-    file = {
-            "source": "\oomlout_bolt_packaging_three_d_printed_version_3\\scad_output\\oobb_oomlout_bolt_packaging_three_d_printed_version_1_tray_04_2d5_18\\3dpr.stl",
-            "destination": "release\\three_d_printer_files\\three_d_printed_version\\tray_oobb_4_width_2-5_length_18_mm_depth_quantity_8.stl"
-            }
-    files_to_copy.append(file)
-
-
     
-
-
     for file in files_to_copy:
         source = file["source"]
-        source = f"temporary\\{source}"
+        repo = file["repo"]
+        destination = file["destination"]
+
+        source_full = f"temporary\\{repo}\\{source}"
+
         destination = file["destination"]
         #make destination directory
         destination_dir = os.path.dirname(destination)
@@ -73,9 +44,23 @@ def main(**kwargs):
         #if source exists delete it
         if os.path.exists(destination):
             os.remove(destination)
-        command = f"copy {source} {destination}"
-        print(f"Copying {source} to {destination}")
+        command = f"copy {source_full} {destination}"
+        print(f"Copying {source_full} to {destination}")        
         os.system(command)
+        
+        #if ends in stl
+        if source_full.endswith(".stl"):
+            #try to copy scad and png too
+            versions = [".scad",".png"]
+            for version in versions:
+                source_full_2 = source_full.replace(".stl",version)
+                destination_2 = destination.replace(".stl",version)
+                if os.path.exists(source_full_2):
+                        command = f"copy {source_full_2} {destination_2}"
+                        print(f"Copying {source_full_2} to {destination_2}")
+                        os.system(command)
+            
+
 
 
 if __name__ == '__main__':
