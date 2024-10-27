@@ -20,7 +20,7 @@ parts:
   - oomp_id: hardware_screw_countersunk_m3_black_25_mm_length_hex_head
     quantity: 40
   - oomp_id: hardware_nut_m3
-    quantity: 350
+    quantity: 280
   - oomp_id: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
     quantity: 1
   - oomp_id: three_d_printer_filament_1_75_mm_pla_eco_blue_light_reel_3dqf
