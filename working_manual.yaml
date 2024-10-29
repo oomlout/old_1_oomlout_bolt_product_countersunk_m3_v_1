@@ -32,6 +32,7 @@ parts:
   - oomp_id: paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
     quantity: 2
 
-
+google_doc:
+    - link: https://docs.google.com/document/d/15JLB-u9FFRc1TsdsCcjqt0dXBMds1eFU69Eqd-14VM8/edit?tab=t.0
 
 
