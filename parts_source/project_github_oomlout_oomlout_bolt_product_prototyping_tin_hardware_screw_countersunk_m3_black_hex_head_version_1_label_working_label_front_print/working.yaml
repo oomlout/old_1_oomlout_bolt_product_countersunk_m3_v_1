@@ -1,0 +1,94 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+color_capital: Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk M3
+    Black Hex Head Version 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_PROTOTYPING_TIN_HARDWARE_SCREW_COUNTERSUNK_M3_BLACK_HEX_HEAD_VERSION_1
+description_extra: working_label_front_print
+description_extra_capital: Working Label Front Print
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WORKING_LABEL_FRONT_PRINT
+description_main: label
+description_main_capital: Label
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LABEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+id: project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+id_no_class: github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+id_no_size: bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+id_no_type: oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print)<br>[Project
+    Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1 Label Working Label Front Print](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print)<br><br>'
+md5: 365783b894ce4413580e7ea94facde93
+md5_10: 365783b894
+md5_10_upper: 365783B894
+md5_5: '36578'
+md5_5_upper: '36578'
+md5_6: '365783'
+md5_6_alpha: 24byb
+md5_6_alpha_upper: 24BYB
+md5_6_upper: '365783'
+name: Project Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1 Label Working Label Front Print
+name_no_class: Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw
+    Countersunk M3 Black Hex Head Version 1 Label Working Label Front Print
+name_no_size: Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex
+    Head Version 1 Label Working Label Front Print
+name_no_size_short: Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black
+    Hex Head Version 1 Label Working Label Front Print
+name_no_type: Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1 Label Working Label Front Print
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_working_label_front_print
+oomp_word: rabbit rat lock
+oomp_word_emoji: ':rabbit: :rat: :lock:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':rat:'
+- ':lock:'
+oomp_word_list:
+- rabbit
+- rat
+- lock
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

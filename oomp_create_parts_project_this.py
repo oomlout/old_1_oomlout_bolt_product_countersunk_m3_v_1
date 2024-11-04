@@ -15,15 +15,51 @@ def load_parts(**kwargs):
         part_details["type"] = "github"
         part_details["size"] = "oomlout"
         part_details["color"] = "oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1"
-        
-        part_base = copy.deepcopy(part_details)
-        
-        part_details = copy.deepcopy(part_base)
-        part_details["description_main"] = "base"
-        part_details["description_extra"] = ""
+        part_details["description_main"] = ""
+        part_details["description_extra"] = ""        
         part_details["manufacturer"] = ""
         part_details["part_number"] = ""
-        parts.append(part_details)
+        
+
+        part_base = copy.deepcopy(part_details)
+        
+        # label
+        if True:
+            part_details = copy.deepcopy(part_base)
+            part_details["description_main"] = "label"
+            part_details["description_extra"] = "working_label_front_print"
+            part_details["name_short"] = "m3_countersunk_tin_label_front"
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(part_base)
+            part_details["description_main"] = "label"
+            part_details["description_extra"] = "working_label_inside_print"
+            part_details["name_short"] = "m3_countersunk_tin_label_inside"
+            parts.append(part_details)
+
+
+            part_details = copy.deepcopy(part_base)
+            part_details["description_main"] = "label"
+            part_details["description_extra"] = "working_label_serial_number_print"
+            part_details["name_short"] = "m3_countersunk_tin_label_serial_number"
+            parts.append(part_details)
+
+        #three d print
+        if True:
+            part_details = copy.deepcopy(part_base)
+            part_details["description_main"] = "three_d_print"
+            part_details["description_extra"] = "tin_spacer_t4066"
+            part_details["name_short"] = "prototyping_tin_spacer_t4066"
+
+            parts.append(part_details)
+
+            part_details = copy.deepcopy(part_base)
+            part_details["description_main"] = "three_d_print"
+            part_details["description_extra"] = "tray_4_width_2.5_height_18_mm_depth"
+            part_details["name_short"] = "prototyping_tin_tray_4_width_2.5_height_18_mm_depth"
+            parts.append(part_details)
+
+            
 
 
 
