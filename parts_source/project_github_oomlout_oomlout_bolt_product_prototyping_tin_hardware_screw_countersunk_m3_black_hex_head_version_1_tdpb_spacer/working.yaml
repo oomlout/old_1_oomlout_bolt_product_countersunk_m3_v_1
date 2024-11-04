@@ -1,0 +1,94 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1
+color_capital: Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk M3
+    Black Hex Head Version 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_PROTOTYPING_TIN_HARDWARE_SCREW_COUNTERSUNK_M3_BLACK_HEX_HEAD_VERSION_1
+description_extra: spacer
+description_extra_capital: Spacer
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SPACER
+description_main: tdpb
+description_main_capital: Tdpb
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TDPB
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+id: project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+id_no_class: github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+id_no_size: bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+id_no_type: oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer)<br>[Project
+    Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1 Tdpb Spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer)<br><br>'
+md5: 4d7da199b3d290a8eeca9121e891a3bb
+md5_10: 4d7da199b3
+md5_10_upper: 4D7DA199B3
+md5_5: 4d7da
+md5_5_upper: 4D7DA
+md5_6: 4d7da1
+md5_6_alpha: 30ujl
+md5_6_alpha_upper: 30UJL
+md5_6_upper: 4D7DA1
+name: Project Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1 Tdpb Spacer
+name_no_class: Github Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw
+    Countersunk M3 Black Hex Head Version 1 Tdpb Spacer
+name_no_size: Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex
+    Head Version 1 Tdpb Spacer
+name_no_size_short: Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black
+    Hex Head Version 1 Tdpb Spacer
+name_no_type: Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk
+    M3 Black Hex Head Version 1 Tdpb Spacer
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_spacer
+oomp_word: bug phone trophy
+oomp_word_emoji: ':bug: :phone: :trophy:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':phone:'
+- ':trophy:'
+oomp_word_list:
+- bug
+- phone
+- trophy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
