@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 3dqf
   * part_number: 
+  * bip 39 word 2: aisle treat
+  * bip 39 word 3: aisle treat potato
+  * bip 39 word: aisle treat potato enter this key three shed question duty safe alley
 
 ### other_codes
 * short_code: 
@@ -29,6 +32,145 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | aisle |  
+| bip_39_word_dash_10 | aisle-treat-potato-enter-this-key-three-shed-question-duty |  
+| bip_39_word_dash_11 | aisle-treat-potato-enter-this-key-three-shed-question-duty-safe |  
+| bip_39_word_dash_12 | aisle-treat-potato-enter-this-key-three-shed-question-duty-safe-alley |  
+| bip_39_word_dash_2 | aisle-treat |  
+| bip_39_word_dash_3 | aisle-treat-potato |  
+| bip_39_word_dash_4 | aisle-treat-potato-enter |  
+| bip_39_word_dash_5 | aisle-treat-potato-enter-this |  
+| bip_39_word_dash_6 | aisle-treat-potato-enter-this-key |  
+| bip_39_word_dash_7 | aisle-treat-potato-enter-this-key-three |  
+| bip_39_word_dash_8 | aisle-treat-potato-enter-this-key-three-shed |  
+| bip_39_word_dash_9 | aisle-treat-potato-enter-this-key-three-shed-question |  
+| bip_39_word_new_br_1 | aisle |  
+| bip_39_word_new_br_10 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty |  
+| bip_39_word_new_br_11 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe |  
+| bip_39_word_new_br_12 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question<br>duty<br>safe<br>alley |  
+| bip_39_word_new_br_2 | aisle<br>treat |  
+| bip_39_word_new_br_3 | aisle<br>treat<br>potato |  
+| bip_39_word_new_br_4 | aisle<br>treat<br>potato<br>enter |  
+| bip_39_word_new_br_5 | aisle<br>treat<br>potato<br>enter<br>this |  
+| bip_39_word_new_br_6 | aisle<br>treat<br>potato<br>enter<br>this<br>key |  
+| bip_39_word_new_br_7 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three |  
+| bip_39_word_new_br_8 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed |  
+| bip_39_word_new_br_9 | aisle<br>treat<br>potato<br>enter<br>this<br>key<br>three<br>shed<br>question |  
+| bip_39_word_new_line_1 | aisle |  
+| bip_39_word_new_line_10 | aisle
+treat
+potato
+enter
+this
+key
+three
+shed
+question
+duty |  
+| bip_39_word_new_line_11 | aisle
+treat
+potato
+enter
+this
+key
+three
+shed
+question
+duty
+safe |  
+| bip_39_word_new_line_12 | aisle
+treat
+potato
+enter
+this
+key
+three
+shed
+question
+duty
+safe
+alley |  
+| bip_39_word_new_line_2 | aisle
+treat |  
+| bip_39_word_new_line_3 | aisle
+treat
+potato |  
+| bip_39_word_new_line_4 | aisle
+treat
+potato
+enter |  
+| bip_39_word_new_line_5 | aisle
+treat
+potato
+enter
+this |  
+| bip_39_word_new_line_6 | aisle
+treat
+potato
+enter
+this
+key |  
+| bip_39_word_new_line_7 | aisle
+treat
+potato
+enter
+this
+key
+three |  
+| bip_39_word_new_line_8 | aisle
+treat
+potato
+enter
+this
+key
+three
+shed |  
+| bip_39_word_new_line_9 | aisle
+treat
+potato
+enter
+this
+key
+three
+shed
+question |  
+| bip_39_word_no_space_1 | aisle |  
+| bip_39_word_no_space_10 | aisletreatpotatoenterthiskeythreeshedquestionduty |  
+| bip_39_word_no_space_11 | aisletreatpotatoenterthiskeythreeshedquestiondutysafe |  
+| bip_39_word_no_space_12 | aisletreatpotatoenterthiskeythreeshedquestiondutysafealley |  
+| bip_39_word_no_space_2 | aisletreat |  
+| bip_39_word_no_space_3 | aisletreatpotato |  
+| bip_39_word_no_space_4 | aisletreatpotatoenter |  
+| bip_39_word_no_space_5 | aisletreatpotatoenterthis |  
+| bip_39_word_no_space_6 | aisletreatpotatoenterthiskey |  
+| bip_39_word_no_space_7 | aisletreatpotatoenterthiskeythree |  
+| bip_39_word_no_space_8 | aisletreatpotatoenterthiskeythreeshed |  
+| bip_39_word_no_space_9 | aisletreatpotatoenterthiskeythreeshedquestion |  
+| bip_39_word_space_0 | ['aisle', 'treat', 'potato', 'enter', 'this', 'key', 'three', 'shed', 'question', 'duty', 'safe', 'alley'] |  
+| bip_39_word_space_1 | aisle |  
+| bip_39_word_space_10 | aisle treat potato enter this key three shed question duty |  
+| bip_39_word_space_11 | aisle treat potato enter this key three shed question duty safe |  
+| bip_39_word_space_12 | aisle treat potato enter this key three shed question duty safe alley |  
+| bip_39_word_space_2 | aisle treat |  
+| bip_39_word_space_3 | aisle treat potato |  
+| bip_39_word_space_4 | aisle treat potato enter |  
+| bip_39_word_space_5 | aisle treat potato enter this |  
+| bip_39_word_space_6 | aisle treat potato enter this key |  
+| bip_39_word_space_7 | aisle treat potato enter this key three |  
+| bip_39_word_space_8 | aisle treat potato enter this key three shed |  
+| bip_39_word_space_9 | aisle treat potato enter this key three shed question |  
+| bip_39_word_underscore_1 | aisle |  
+| bip_39_word_underscore_10 | aisle_treat_potato_enter_this_key_three_shed_question_duty |  
+| bip_39_word_underscore_11 | aisle_treat_potato_enter_this_key_three_shed_question_duty_safe |  
+| bip_39_word_underscore_12 | aisle_treat_potato_enter_this_key_three_shed_question_duty_safe_alley |  
+| bip_39_word_underscore_2 | aisle_treat |  
+| bip_39_word_underscore_3 | aisle_treat_potato |  
+| bip_39_word_underscore_4 | aisle_treat_potato_enter |  
+| bip_39_word_underscore_5 | aisle_treat_potato_enter_this |  
+| bip_39_word_underscore_6 | aisle_treat_potato_enter_this_key |  
+| bip_39_word_underscore_7 | aisle_treat_potato_enter_this_key_three |  
+| bip_39_word_underscore_8 | aisle_treat_potato_enter_this_key_three_shed |  
+| bip_39_word_underscore_9 | aisle_treat_potato_enter_this_key_three_shed_question |  
 | classification | three_d_printer |  
 | classification_capital | Three D Printer |  
 | classification_first_letter | t |  
