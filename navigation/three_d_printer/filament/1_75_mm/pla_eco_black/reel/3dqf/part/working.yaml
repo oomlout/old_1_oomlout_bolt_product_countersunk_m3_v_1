@@ -1,3 +1,222 @@
+bip_39_word_dash_1: disease
+bip_39_word_dash_10: disease-apology-rail-code-just-plug-science-rebuild-coyote-frost
+bip_39_word_dash_11: disease-apology-rail-code-just-plug-science-rebuild-coyote-frost-heavy
+bip_39_word_dash_12: disease-apology-rail-code-just-plug-science-rebuild-coyote-frost-heavy-armor
+bip_39_word_dash_2: disease-apology
+bip_39_word_dash_3: disease-apology-rail
+bip_39_word_dash_4: disease-apology-rail-code
+bip_39_word_dash_5: disease-apology-rail-code-just
+bip_39_word_dash_6: disease-apology-rail-code-just-plug
+bip_39_word_dash_7: disease-apology-rail-code-just-plug-science
+bip_39_word_dash_8: disease-apology-rail-code-just-plug-science-rebuild
+bip_39_word_dash_9: disease-apology-rail-code-just-plug-science-rebuild-coyote
+bip_39_word_new_br_1: disease
+bip_39_word_new_br_10: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild<br>coyote<br>frost
+bip_39_word_new_br_11: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild<br>coyote<br>frost<br>heavy
+bip_39_word_new_br_12: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild<br>coyote<br>frost<br>heavy<br>armor
+bip_39_word_new_br_2: disease<br>apology
+bip_39_word_new_br_3: disease<br>apology<br>rail
+bip_39_word_new_br_4: disease<br>apology<br>rail<br>code
+bip_39_word_new_br_5: disease<br>apology<br>rail<br>code<br>just
+bip_39_word_new_br_6: disease<br>apology<br>rail<br>code<br>just<br>plug
+bip_39_word_new_br_7: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science
+bip_39_word_new_br_8: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild
+bip_39_word_new_br_9: disease<br>apology<br>rail<br>code<br>just<br>plug<br>science<br>rebuild<br>coyote
+bip_39_word_new_line_1: disease
+bip_39_word_new_line_10: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug
+
+  science
+
+  rebuild
+
+  coyote
+
+  frost'
+bip_39_word_new_line_11: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug
+
+  science
+
+  rebuild
+
+  coyote
+
+  frost
+
+  heavy'
+bip_39_word_new_line_12: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug
+
+  science
+
+  rebuild
+
+  coyote
+
+  frost
+
+  heavy
+
+  armor'
+bip_39_word_new_line_2: 'disease
+
+  apology'
+bip_39_word_new_line_3: 'disease
+
+  apology
+
+  rail'
+bip_39_word_new_line_4: 'disease
+
+  apology
+
+  rail
+
+  code'
+bip_39_word_new_line_5: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just'
+bip_39_word_new_line_6: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug'
+bip_39_word_new_line_7: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug
+
+  science'
+bip_39_word_new_line_8: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug
+
+  science
+
+  rebuild'
+bip_39_word_new_line_9: 'disease
+
+  apology
+
+  rail
+
+  code
+
+  just
+
+  plug
+
+  science
+
+  rebuild
+
+  coyote'
+bip_39_word_no_space_1: disease
+bip_39_word_no_space_10: diseaseapologyrailcodejustplugsciencerebuildcoyotefrost
+bip_39_word_no_space_11: diseaseapologyrailcodejustplugsciencerebuildcoyotefrostheavy
+bip_39_word_no_space_12: diseaseapologyrailcodejustplugsciencerebuildcoyotefrostheavyarmor
+bip_39_word_no_space_2: diseaseapology
+bip_39_word_no_space_3: diseaseapologyrail
+bip_39_word_no_space_4: diseaseapologyrailcode
+bip_39_word_no_space_5: diseaseapologyrailcodejust
+bip_39_word_no_space_6: diseaseapologyrailcodejustplug
+bip_39_word_no_space_7: diseaseapologyrailcodejustplugscience
+bip_39_word_no_space_8: diseaseapologyrailcodejustplugsciencerebuild
+bip_39_word_no_space_9: diseaseapologyrailcodejustplugsciencerebuildcoyote
+bip_39_word_space_0:
+- disease
+- apology
+- rail
+- code
+- just
+- plug
+- science
+- rebuild
+- coyote
+- frost
+- heavy
+- armor
+bip_39_word_space_1: disease
+bip_39_word_space_10: disease apology rail code just plug science rebuild coyote frost
+bip_39_word_space_11: disease apology rail code just plug science rebuild coyote frost
+  heavy
+bip_39_word_space_12: disease apology rail code just plug science rebuild coyote frost
+  heavy armor
+bip_39_word_space_2: disease apology
+bip_39_word_space_3: disease apology rail
+bip_39_word_space_4: disease apology rail code
+bip_39_word_space_5: disease apology rail code just
+bip_39_word_space_6: disease apology rail code just plug
+bip_39_word_space_7: disease apology rail code just plug science
+bip_39_word_space_8: disease apology rail code just plug science rebuild
+bip_39_word_space_9: disease apology rail code just plug science rebuild coyote
+bip_39_word_underscore_1: disease
+bip_39_word_underscore_10: disease_apology_rail_code_just_plug_science_rebuild_coyote_frost
+bip_39_word_underscore_11: disease_apology_rail_code_just_plug_science_rebuild_coyote_frost_heavy
+bip_39_word_underscore_12: disease_apology_rail_code_just_plug_science_rebuild_coyote_frost_heavy_armor
+bip_39_word_underscore_2: disease_apology
+bip_39_word_underscore_3: disease_apology_rail
+bip_39_word_underscore_4: disease_apology_rail_code
+bip_39_word_underscore_5: disease_apology_rail_code_just
+bip_39_word_underscore_6: disease_apology_rail_code_just_plug
+bip_39_word_underscore_7: disease_apology_rail_code_just_plug_science
+bip_39_word_underscore_8: disease_apology_rail_code_just_plug_science_rebuild
+bip_39_word_underscore_9: disease_apology_rail_code_just_plug_science_rebuild_coyote
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t

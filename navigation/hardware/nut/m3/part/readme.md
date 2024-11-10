@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: 
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: nasty dog
+  * bip 39 word 3: nasty dog guess
+  * bip 39 word: nasty dog guess horse subject typical ordinary name pact round notable alert
 
 ### other_codes
 * short_code: n3m
@@ -30,6 +33,145 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | barcode_manufacturer_metalmate | 5050420017503 |  
+| bip_39_word_dash_1 | nasty |  
+| bip_39_word_dash_10 | nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round |  
+| bip_39_word_dash_11 | nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round-notable |  
+| bip_39_word_dash_12 | nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round-notable-alert |  
+| bip_39_word_dash_2 | nasty-dog |  
+| bip_39_word_dash_3 | nasty-dog-guess |  
+| bip_39_word_dash_4 | nasty-dog-guess-horse |  
+| bip_39_word_dash_5 | nasty-dog-guess-horse-subject |  
+| bip_39_word_dash_6 | nasty-dog-guess-horse-subject-typical |  
+| bip_39_word_dash_7 | nasty-dog-guess-horse-subject-typical-ordinary |  
+| bip_39_word_dash_8 | nasty-dog-guess-horse-subject-typical-ordinary-name |  
+| bip_39_word_dash_9 | nasty-dog-guess-horse-subject-typical-ordinary-name-pact |  
+| bip_39_word_new_br_1 | nasty |  
+| bip_39_word_new_br_10 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round |  
+| bip_39_word_new_br_11 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round<br>notable |  
+| bip_39_word_new_br_12 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact<br>round<br>notable<br>alert |  
+| bip_39_word_new_br_2 | nasty<br>dog |  
+| bip_39_word_new_br_3 | nasty<br>dog<br>guess |  
+| bip_39_word_new_br_4 | nasty<br>dog<br>guess<br>horse |  
+| bip_39_word_new_br_5 | nasty<br>dog<br>guess<br>horse<br>subject |  
+| bip_39_word_new_br_6 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical |  
+| bip_39_word_new_br_7 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary |  
+| bip_39_word_new_br_8 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name |  
+| bip_39_word_new_br_9 | nasty<br>dog<br>guess<br>horse<br>subject<br>typical<br>ordinary<br>name<br>pact |  
+| bip_39_word_new_line_1 | nasty |  
+| bip_39_word_new_line_10 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact
+round |  
+| bip_39_word_new_line_11 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact
+round
+notable |  
+| bip_39_word_new_line_12 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact
+round
+notable
+alert |  
+| bip_39_word_new_line_2 | nasty
+dog |  
+| bip_39_word_new_line_3 | nasty
+dog
+guess |  
+| bip_39_word_new_line_4 | nasty
+dog
+guess
+horse |  
+| bip_39_word_new_line_5 | nasty
+dog
+guess
+horse
+subject |  
+| bip_39_word_new_line_6 | nasty
+dog
+guess
+horse
+subject
+typical |  
+| bip_39_word_new_line_7 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary |  
+| bip_39_word_new_line_8 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name |  
+| bip_39_word_new_line_9 | nasty
+dog
+guess
+horse
+subject
+typical
+ordinary
+name
+pact |  
+| bip_39_word_no_space_1 | nasty |  
+| bip_39_word_no_space_10 | nastydogguesshorsesubjecttypicalordinarynamepactround |  
+| bip_39_word_no_space_11 | nastydogguesshorsesubjecttypicalordinarynamepactroundnotable |  
+| bip_39_word_no_space_12 | nastydogguesshorsesubjecttypicalordinarynamepactroundnotablealert |  
+| bip_39_word_no_space_2 | nastydog |  
+| bip_39_word_no_space_3 | nastydogguess |  
+| bip_39_word_no_space_4 | nastydogguesshorse |  
+| bip_39_word_no_space_5 | nastydogguesshorsesubject |  
+| bip_39_word_no_space_6 | nastydogguesshorsesubjecttypical |  
+| bip_39_word_no_space_7 | nastydogguesshorsesubjecttypicalordinary |  
+| bip_39_word_no_space_8 | nastydogguesshorsesubjecttypicalordinaryname |  
+| bip_39_word_no_space_9 | nastydogguesshorsesubjecttypicalordinarynamepact |  
+| bip_39_word_space_0 | ['nasty', 'dog', 'guess', 'horse', 'subject', 'typical', 'ordinary', 'name', 'pact', 'round', 'notable', 'alert'] |  
+| bip_39_word_space_1 | nasty |  
+| bip_39_word_space_10 | nasty dog guess horse subject typical ordinary name pact round |  
+| bip_39_word_space_11 | nasty dog guess horse subject typical ordinary name pact round notable |  
+| bip_39_word_space_12 | nasty dog guess horse subject typical ordinary name pact round notable alert |  
+| bip_39_word_space_2 | nasty dog |  
+| bip_39_word_space_3 | nasty dog guess |  
+| bip_39_word_space_4 | nasty dog guess horse |  
+| bip_39_word_space_5 | nasty dog guess horse subject |  
+| bip_39_word_space_6 | nasty dog guess horse subject typical |  
+| bip_39_word_space_7 | nasty dog guess horse subject typical ordinary |  
+| bip_39_word_space_8 | nasty dog guess horse subject typical ordinary name |  
+| bip_39_word_space_9 | nasty dog guess horse subject typical ordinary name pact |  
+| bip_39_word_underscore_1 | nasty |  
+| bip_39_word_underscore_10 | nasty_dog_guess_horse_subject_typical_ordinary_name_pact_round |  
+| bip_39_word_underscore_11 | nasty_dog_guess_horse_subject_typical_ordinary_name_pact_round_notable |  
+| bip_39_word_underscore_12 | nasty_dog_guess_horse_subject_typical_ordinary_name_pact_round_notable_alert |  
+| bip_39_word_underscore_2 | nasty_dog |  
+| bip_39_word_underscore_3 | nasty_dog_guess |  
+| bip_39_word_underscore_4 | nasty_dog_guess_horse |  
+| bip_39_word_underscore_5 | nasty_dog_guess_horse_subject |  
+| bip_39_word_underscore_6 | nasty_dog_guess_horse_subject_typical |  
+| bip_39_word_underscore_7 | nasty_dog_guess_horse_subject_typical_ordinary |  
+| bip_39_word_underscore_8 | nasty_dog_guess_horse_subject_typical_ordinary_name |  
+| bip_39_word_underscore_9 | nasty_dog_guess_horse_subject_typical_ordinary_name_pact |  
 | box_of_box_size_manufacturer_metalmate | 64000 |  
 | box_size_manufacturer_metalmate | 2000 |  
 | classification | hardware |  

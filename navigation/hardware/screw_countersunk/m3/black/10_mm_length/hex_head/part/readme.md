@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: wrong dose
+  * bip 39 word 3: wrong dose unfair
+  * bip 39 word: wrong dose unfair auto rapid cactus daughter vast culture twist poet advance
 
 ### other_codes
 * short_code: cs3b10h
@@ -30,6 +33,145 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | key | value |  
 | --- | --- |  
 | barcode_manufacturer_metalmate | 5050420056236 |  
+| bip_39_word_dash_1 | wrong |  
+| bip_39_word_dash_10 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist |  
+| bip_39_word_dash_11 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist-poet |  
+| bip_39_word_dash_12 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist-poet-advance |  
+| bip_39_word_dash_2 | wrong-dose |  
+| bip_39_word_dash_3 | wrong-dose-unfair |  
+| bip_39_word_dash_4 | wrong-dose-unfair-auto |  
+| bip_39_word_dash_5 | wrong-dose-unfair-auto-rapid |  
+| bip_39_word_dash_6 | wrong-dose-unfair-auto-rapid-cactus |  
+| bip_39_word_dash_7 | wrong-dose-unfair-auto-rapid-cactus-daughter |  
+| bip_39_word_dash_8 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast |  
+| bip_39_word_dash_9 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture |  
+| bip_39_word_new_br_1 | wrong |  
+| bip_39_word_new_br_10 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist |  
+| bip_39_word_new_br_11 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet |  
+| bip_39_word_new_br_12 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet<br>advance |  
+| bip_39_word_new_br_2 | wrong<br>dose |  
+| bip_39_word_new_br_3 | wrong<br>dose<br>unfair |  
+| bip_39_word_new_br_4 | wrong<br>dose<br>unfair<br>auto |  
+| bip_39_word_new_br_5 | wrong<br>dose<br>unfair<br>auto<br>rapid |  
+| bip_39_word_new_br_6 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus |  
+| bip_39_word_new_br_7 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter |  
+| bip_39_word_new_br_8 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast |  
+| bip_39_word_new_br_9 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture |  
+| bip_39_word_new_line_1 | wrong |  
+| bip_39_word_new_line_10 | wrong
+dose
+unfair
+auto
+rapid
+cactus
+daughter
+vast
+culture
+twist |  
+| bip_39_word_new_line_11 | wrong
+dose
+unfair
+auto
+rapid
+cactus
+daughter
+vast
+culture
+twist
+poet |  
+| bip_39_word_new_line_12 | wrong
+dose
+unfair
+auto
+rapid
+cactus
+daughter
+vast
+culture
+twist
+poet
+advance |  
+| bip_39_word_new_line_2 | wrong
+dose |  
+| bip_39_word_new_line_3 | wrong
+dose
+unfair |  
+| bip_39_word_new_line_4 | wrong
+dose
+unfair
+auto |  
+| bip_39_word_new_line_5 | wrong
+dose
+unfair
+auto
+rapid |  
+| bip_39_word_new_line_6 | wrong
+dose
+unfair
+auto
+rapid
+cactus |  
+| bip_39_word_new_line_7 | wrong
+dose
+unfair
+auto
+rapid
+cactus
+daughter |  
+| bip_39_word_new_line_8 | wrong
+dose
+unfair
+auto
+rapid
+cactus
+daughter
+vast |  
+| bip_39_word_new_line_9 | wrong
+dose
+unfair
+auto
+rapid
+cactus
+daughter
+vast
+culture |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wrongdoseunfairautorapidcactusdaughtervastculturetwist |  
+| bip_39_word_no_space_11 | wrongdoseunfairautorapidcactusdaughtervastculturetwistpoet |  
+| bip_39_word_no_space_12 | wrongdoseunfairautorapidcactusdaughtervastculturetwistpoetadvance |  
+| bip_39_word_no_space_2 | wrongdose |  
+| bip_39_word_no_space_3 | wrongdoseunfair |  
+| bip_39_word_no_space_4 | wrongdoseunfairauto |  
+| bip_39_word_no_space_5 | wrongdoseunfairautorapid |  
+| bip_39_word_no_space_6 | wrongdoseunfairautorapidcactus |  
+| bip_39_word_no_space_7 | wrongdoseunfairautorapidcactusdaughter |  
+| bip_39_word_no_space_8 | wrongdoseunfairautorapidcactusdaughtervast |  
+| bip_39_word_no_space_9 | wrongdoseunfairautorapidcactusdaughtervastculture |  
+| bip_39_word_space_0 | ['wrong', 'dose', 'unfair', 'auto', 'rapid', 'cactus', 'daughter', 'vast', 'culture', 'twist', 'poet', 'advance'] |  
+| bip_39_word_space_1 | wrong |  
+| bip_39_word_space_10 | wrong dose unfair auto rapid cactus daughter vast culture twist |  
+| bip_39_word_space_11 | wrong dose unfair auto rapid cactus daughter vast culture twist poet |  
+| bip_39_word_space_12 | wrong dose unfair auto rapid cactus daughter vast culture twist poet advance |  
+| bip_39_word_space_2 | wrong dose |  
+| bip_39_word_space_3 | wrong dose unfair |  
+| bip_39_word_space_4 | wrong dose unfair auto |  
+| bip_39_word_space_5 | wrong dose unfair auto rapid |  
+| bip_39_word_space_6 | wrong dose unfair auto rapid cactus |  
+| bip_39_word_space_7 | wrong dose unfair auto rapid cactus daughter |  
+| bip_39_word_space_8 | wrong dose unfair auto rapid cactus daughter vast |  
+| bip_39_word_space_9 | wrong dose unfair auto rapid cactus daughter vast culture |  
+| bip_39_word_underscore_1 | wrong |  
+| bip_39_word_underscore_10 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture_twist |  
+| bip_39_word_underscore_11 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture_twist_poet |  
+| bip_39_word_underscore_12 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture_twist_poet_advance |  
+| bip_39_word_underscore_2 | wrong_dose |  
+| bip_39_word_underscore_3 | wrong_dose_unfair |  
+| bip_39_word_underscore_4 | wrong_dose_unfair_auto |  
+| bip_39_word_underscore_5 | wrong_dose_unfair_auto_rapid |  
+| bip_39_word_underscore_6 | wrong_dose_unfair_auto_rapid_cactus |  
+| bip_39_word_underscore_7 | wrong_dose_unfair_auto_rapid_cactus_daughter |  
+| bip_39_word_underscore_8 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast |  
+| bip_39_word_underscore_9 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture |  
 | box_of_box_size_manufacturer_metalmate | 4800 |  
 | box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  

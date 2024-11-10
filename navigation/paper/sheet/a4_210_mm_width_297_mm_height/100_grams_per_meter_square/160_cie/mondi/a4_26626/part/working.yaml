@@ -1,3 +1,222 @@
+bip_39_word_dash_1: battle
+bip_39_word_dash_10: battle-woman-vivid-select-board-oval-cruise-trick-north-onion
+bip_39_word_dash_11: battle-woman-vivid-select-board-oval-cruise-trick-north-onion-reject
+bip_39_word_dash_12: battle-woman-vivid-select-board-oval-cruise-trick-north-onion-reject-animal
+bip_39_word_dash_2: battle-woman
+bip_39_word_dash_3: battle-woman-vivid
+bip_39_word_dash_4: battle-woman-vivid-select
+bip_39_word_dash_5: battle-woman-vivid-select-board
+bip_39_word_dash_6: battle-woman-vivid-select-board-oval
+bip_39_word_dash_7: battle-woman-vivid-select-board-oval-cruise
+bip_39_word_dash_8: battle-woman-vivid-select-board-oval-cruise-trick
+bip_39_word_dash_9: battle-woman-vivid-select-board-oval-cruise-trick-north
+bip_39_word_new_br_1: battle
+bip_39_word_new_br_10: battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion
+bip_39_word_new_br_11: battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion<br>reject
+bip_39_word_new_br_12: battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north<br>onion<br>reject<br>animal
+bip_39_word_new_br_2: battle<br>woman
+bip_39_word_new_br_3: battle<br>woman<br>vivid
+bip_39_word_new_br_4: battle<br>woman<br>vivid<br>select
+bip_39_word_new_br_5: battle<br>woman<br>vivid<br>select<br>board
+bip_39_word_new_br_6: battle<br>woman<br>vivid<br>select<br>board<br>oval
+bip_39_word_new_br_7: battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise
+bip_39_word_new_br_8: battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick
+bip_39_word_new_br_9: battle<br>woman<br>vivid<br>select<br>board<br>oval<br>cruise<br>trick<br>north
+bip_39_word_new_line_1: battle
+bip_39_word_new_line_10: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval
+
+  cruise
+
+  trick
+
+  north
+
+  onion'
+bip_39_word_new_line_11: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval
+
+  cruise
+
+  trick
+
+  north
+
+  onion
+
+  reject'
+bip_39_word_new_line_12: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval
+
+  cruise
+
+  trick
+
+  north
+
+  onion
+
+  reject
+
+  animal'
+bip_39_word_new_line_2: 'battle
+
+  woman'
+bip_39_word_new_line_3: 'battle
+
+  woman
+
+  vivid'
+bip_39_word_new_line_4: 'battle
+
+  woman
+
+  vivid
+
+  select'
+bip_39_word_new_line_5: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board'
+bip_39_word_new_line_6: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval'
+bip_39_word_new_line_7: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval
+
+  cruise'
+bip_39_word_new_line_8: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval
+
+  cruise
+
+  trick'
+bip_39_word_new_line_9: 'battle
+
+  woman
+
+  vivid
+
+  select
+
+  board
+
+  oval
+
+  cruise
+
+  trick
+
+  north'
+bip_39_word_no_space_1: battle
+bip_39_word_no_space_10: battlewomanvividselectboardovalcruisetricknorthonion
+bip_39_word_no_space_11: battlewomanvividselectboardovalcruisetricknorthonionreject
+bip_39_word_no_space_12: battlewomanvividselectboardovalcruisetricknorthonionrejectanimal
+bip_39_word_no_space_2: battlewoman
+bip_39_word_no_space_3: battlewomanvivid
+bip_39_word_no_space_4: battlewomanvividselect
+bip_39_word_no_space_5: battlewomanvividselectboard
+bip_39_word_no_space_6: battlewomanvividselectboardoval
+bip_39_word_no_space_7: battlewomanvividselectboardovalcruise
+bip_39_word_no_space_8: battlewomanvividselectboardovalcruisetrick
+bip_39_word_no_space_9: battlewomanvividselectboardovalcruisetricknorth
+bip_39_word_space_0:
+- battle
+- woman
+- vivid
+- select
+- board
+- oval
+- cruise
+- trick
+- north
+- onion
+- reject
+- animal
+bip_39_word_space_1: battle
+bip_39_word_space_10: battle woman vivid select board oval cruise trick north onion
+bip_39_word_space_11: battle woman vivid select board oval cruise trick north onion
+  reject
+bip_39_word_space_12: battle woman vivid select board oval cruise trick north onion
+  reject animal
+bip_39_word_space_2: battle woman
+bip_39_word_space_3: battle woman vivid
+bip_39_word_space_4: battle woman vivid select
+bip_39_word_space_5: battle woman vivid select board
+bip_39_word_space_6: battle woman vivid select board oval
+bip_39_word_space_7: battle woman vivid select board oval cruise
+bip_39_word_space_8: battle woman vivid select board oval cruise trick
+bip_39_word_space_9: battle woman vivid select board oval cruise trick north
+bip_39_word_underscore_1: battle
+bip_39_word_underscore_10: battle_woman_vivid_select_board_oval_cruise_trick_north_onion
+bip_39_word_underscore_11: battle_woman_vivid_select_board_oval_cruise_trick_north_onion_reject
+bip_39_word_underscore_12: battle_woman_vivid_select_board_oval_cruise_trick_north_onion_reject_animal
+bip_39_word_underscore_2: battle_woman
+bip_39_word_underscore_3: battle_woman_vivid
+bip_39_word_underscore_4: battle_woman_vivid_select
+bip_39_word_underscore_5: battle_woman_vivid_select_board
+bip_39_word_underscore_6: battle_woman_vivid_select_board_oval
+bip_39_word_underscore_7: battle_woman_vivid_select_board_oval_cruise
+bip_39_word_underscore_8: battle_woman_vivid_select_board_oval_cruise_trick
+bip_39_word_underscore_9: battle_woman_vivid_select_board_oval_cruise_trick_north
 classification: paper
 classification_capital: Paper
 classification_first_letter: p

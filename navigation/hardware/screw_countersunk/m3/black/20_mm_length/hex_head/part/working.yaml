@@ -1,4 +1,222 @@
 barcode_manufacturer_metalmate: '5050420920254'
+bip_39_word_dash_1: job
+bip_39_word_dash_10: job-clip-fiber-frog-access-entry-exotic-lonely-chalk-organ
+bip_39_word_dash_11: job-clip-fiber-frog-access-entry-exotic-lonely-chalk-organ-yard
+bip_39_word_dash_12: job-clip-fiber-frog-access-entry-exotic-lonely-chalk-organ-yard-atom
+bip_39_word_dash_2: job-clip
+bip_39_word_dash_3: job-clip-fiber
+bip_39_word_dash_4: job-clip-fiber-frog
+bip_39_word_dash_5: job-clip-fiber-frog-access
+bip_39_word_dash_6: job-clip-fiber-frog-access-entry
+bip_39_word_dash_7: job-clip-fiber-frog-access-entry-exotic
+bip_39_word_dash_8: job-clip-fiber-frog-access-entry-exotic-lonely
+bip_39_word_dash_9: job-clip-fiber-frog-access-entry-exotic-lonely-chalk
+bip_39_word_new_br_1: job
+bip_39_word_new_br_10: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely<br>chalk<br>organ
+bip_39_word_new_br_11: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely<br>chalk<br>organ<br>yard
+bip_39_word_new_br_12: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely<br>chalk<br>organ<br>yard<br>atom
+bip_39_word_new_br_2: job<br>clip
+bip_39_word_new_br_3: job<br>clip<br>fiber
+bip_39_word_new_br_4: job<br>clip<br>fiber<br>frog
+bip_39_word_new_br_5: job<br>clip<br>fiber<br>frog<br>access
+bip_39_word_new_br_6: job<br>clip<br>fiber<br>frog<br>access<br>entry
+bip_39_word_new_br_7: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic
+bip_39_word_new_br_8: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely
+bip_39_word_new_br_9: job<br>clip<br>fiber<br>frog<br>access<br>entry<br>exotic<br>lonely<br>chalk
+bip_39_word_new_line_1: job
+bip_39_word_new_line_10: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry
+
+  exotic
+
+  lonely
+
+  chalk
+
+  organ'
+bip_39_word_new_line_11: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry
+
+  exotic
+
+  lonely
+
+  chalk
+
+  organ
+
+  yard'
+bip_39_word_new_line_12: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry
+
+  exotic
+
+  lonely
+
+  chalk
+
+  organ
+
+  yard
+
+  atom'
+bip_39_word_new_line_2: 'job
+
+  clip'
+bip_39_word_new_line_3: 'job
+
+  clip
+
+  fiber'
+bip_39_word_new_line_4: 'job
+
+  clip
+
+  fiber
+
+  frog'
+bip_39_word_new_line_5: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access'
+bip_39_word_new_line_6: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry'
+bip_39_word_new_line_7: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry
+
+  exotic'
+bip_39_word_new_line_8: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry
+
+  exotic
+
+  lonely'
+bip_39_word_new_line_9: 'job
+
+  clip
+
+  fiber
+
+  frog
+
+  access
+
+  entry
+
+  exotic
+
+  lonely
+
+  chalk'
+bip_39_word_no_space_1: job
+bip_39_word_no_space_10: jobclipfiberfrogaccessentryexoticlonelychalkorgan
+bip_39_word_no_space_11: jobclipfiberfrogaccessentryexoticlonelychalkorganyard
+bip_39_word_no_space_12: jobclipfiberfrogaccessentryexoticlonelychalkorganyardatom
+bip_39_word_no_space_2: jobclip
+bip_39_word_no_space_3: jobclipfiber
+bip_39_word_no_space_4: jobclipfiberfrog
+bip_39_word_no_space_5: jobclipfiberfrogaccess
+bip_39_word_no_space_6: jobclipfiberfrogaccessentry
+bip_39_word_no_space_7: jobclipfiberfrogaccessentryexotic
+bip_39_word_no_space_8: jobclipfiberfrogaccessentryexoticlonely
+bip_39_word_no_space_9: jobclipfiberfrogaccessentryexoticlonelychalk
+bip_39_word_space_0:
+- job
+- clip
+- fiber
+- frog
+- access
+- entry
+- exotic
+- lonely
+- chalk
+- organ
+- yard
+- atom
+bip_39_word_space_1: job
+bip_39_word_space_10: job clip fiber frog access entry exotic lonely chalk organ
+bip_39_word_space_11: job clip fiber frog access entry exotic lonely chalk organ yard
+bip_39_word_space_12: job clip fiber frog access entry exotic lonely chalk organ yard
+  atom
+bip_39_word_space_2: job clip
+bip_39_word_space_3: job clip fiber
+bip_39_word_space_4: job clip fiber frog
+bip_39_word_space_5: job clip fiber frog access
+bip_39_word_space_6: job clip fiber frog access entry
+bip_39_word_space_7: job clip fiber frog access entry exotic
+bip_39_word_space_8: job clip fiber frog access entry exotic lonely
+bip_39_word_space_9: job clip fiber frog access entry exotic lonely chalk
+bip_39_word_underscore_1: job
+bip_39_word_underscore_10: job_clip_fiber_frog_access_entry_exotic_lonely_chalk_organ
+bip_39_word_underscore_11: job_clip_fiber_frog_access_entry_exotic_lonely_chalk_organ_yard
+bip_39_word_underscore_12: job_clip_fiber_frog_access_entry_exotic_lonely_chalk_organ_yard_atom
+bip_39_word_underscore_2: job_clip
+bip_39_word_underscore_3: job_clip_fiber
+bip_39_word_underscore_4: job_clip_fiber_frog
+bip_39_word_underscore_5: job_clip_fiber_frog_access
+bip_39_word_underscore_6: job_clip_fiber_frog_access_entry
+bip_39_word_underscore_7: job_clip_fiber_frog_access_entry_exotic
+bip_39_word_underscore_8: job_clip_fiber_frog_access_entry_exotic_lonely
+bip_39_word_underscore_9: job_clip_fiber_frog_access_entry_exotic_lonely_chalk
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

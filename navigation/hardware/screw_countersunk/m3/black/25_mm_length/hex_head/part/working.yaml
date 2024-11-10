@@ -1,4 +1,224 @@
 barcode_manufacturer_metalmate: '5050420056281'
+bip_39_word_dash_1: segment
+bip_39_word_dash_10: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon
+bip_39_word_dash_11: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon-such
+bip_39_word_dash_12: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon-such-animal
+bip_39_word_dash_2: segment-spare
+bip_39_word_dash_3: segment-spare-cause
+bip_39_word_dash_4: segment-spare-cause-hungry
+bip_39_word_dash_5: segment-spare-cause-hungry-gorilla
+bip_39_word_dash_6: segment-spare-cause-hungry-gorilla-nerve
+bip_39_word_dash_7: segment-spare-cause-hungry-gorilla-nerve-gym
+bip_39_word_dash_8: segment-spare-cause-hungry-gorilla-nerve-gym-session
+bip_39_word_dash_9: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend
+bip_39_word_new_br_1: segment
+bip_39_word_new_br_10: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon
+bip_39_word_new_br_11: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such
+bip_39_word_new_br_12: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such<br>animal
+bip_39_word_new_br_2: segment<br>spare
+bip_39_word_new_br_3: segment<br>spare<br>cause
+bip_39_word_new_br_4: segment<br>spare<br>cause<br>hungry
+bip_39_word_new_br_5: segment<br>spare<br>cause<br>hungry<br>gorilla
+bip_39_word_new_br_6: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve
+bip_39_word_new_br_7: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym
+bip_39_word_new_br_8: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session
+bip_39_word_new_br_9: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend
+bip_39_word_new_line_1: segment
+bip_39_word_new_line_10: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve
+
+  gym
+
+  session
+
+  friend
+
+  ribbon'
+bip_39_word_new_line_11: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve
+
+  gym
+
+  session
+
+  friend
+
+  ribbon
+
+  such'
+bip_39_word_new_line_12: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve
+
+  gym
+
+  session
+
+  friend
+
+  ribbon
+
+  such
+
+  animal'
+bip_39_word_new_line_2: 'segment
+
+  spare'
+bip_39_word_new_line_3: 'segment
+
+  spare
+
+  cause'
+bip_39_word_new_line_4: 'segment
+
+  spare
+
+  cause
+
+  hungry'
+bip_39_word_new_line_5: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla'
+bip_39_word_new_line_6: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve'
+bip_39_word_new_line_7: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve
+
+  gym'
+bip_39_word_new_line_8: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve
+
+  gym
+
+  session'
+bip_39_word_new_line_9: 'segment
+
+  spare
+
+  cause
+
+  hungry
+
+  gorilla
+
+  nerve
+
+  gym
+
+  session
+
+  friend'
+bip_39_word_no_space_1: segment
+bip_39_word_no_space_10: segmentsparecausehungrygorillanervegymsessionfriendribbon
+bip_39_word_no_space_11: segmentsparecausehungrygorillanervegymsessionfriendribbonsuch
+bip_39_word_no_space_12: segmentsparecausehungrygorillanervegymsessionfriendribbonsuchanimal
+bip_39_word_no_space_2: segmentspare
+bip_39_word_no_space_3: segmentsparecause
+bip_39_word_no_space_4: segmentsparecausehungry
+bip_39_word_no_space_5: segmentsparecausehungrygorilla
+bip_39_word_no_space_6: segmentsparecausehungrygorillanerve
+bip_39_word_no_space_7: segmentsparecausehungrygorillanervegym
+bip_39_word_no_space_8: segmentsparecausehungrygorillanervegymsession
+bip_39_word_no_space_9: segmentsparecausehungrygorillanervegymsessionfriend
+bip_39_word_space_0:
+- segment
+- spare
+- cause
+- hungry
+- gorilla
+- nerve
+- gym
+- session
+- friend
+- ribbon
+- such
+- animal
+bip_39_word_space_1: segment
+bip_39_word_space_10: segment spare cause hungry gorilla nerve gym session friend
+  ribbon
+bip_39_word_space_11: segment spare cause hungry gorilla nerve gym session friend
+  ribbon such
+bip_39_word_space_12: segment spare cause hungry gorilla nerve gym session friend
+  ribbon such animal
+bip_39_word_space_2: segment spare
+bip_39_word_space_3: segment spare cause
+bip_39_word_space_4: segment spare cause hungry
+bip_39_word_space_5: segment spare cause hungry gorilla
+bip_39_word_space_6: segment spare cause hungry gorilla nerve
+bip_39_word_space_7: segment spare cause hungry gorilla nerve gym
+bip_39_word_space_8: segment spare cause hungry gorilla nerve gym session
+bip_39_word_space_9: segment spare cause hungry gorilla nerve gym session friend
+bip_39_word_underscore_1: segment
+bip_39_word_underscore_10: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend_ribbon
+bip_39_word_underscore_11: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend_ribbon_such
+bip_39_word_underscore_12: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend_ribbon_such_animal
+bip_39_word_underscore_2: segment_spare
+bip_39_word_underscore_3: segment_spare_cause
+bip_39_word_underscore_4: segment_spare_cause_hungry
+bip_39_word_underscore_5: segment_spare_cause_hungry_gorilla
+bip_39_word_underscore_6: segment_spare_cause_hungry_gorilla_nerve
+bip_39_word_underscore_7: segment_spare_cause_hungry_gorilla_nerve_gym
+bip_39_word_underscore_8: segment_spare_cause_hungry_gorilla_nerve_gym_session
+bip_39_word_underscore_9: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

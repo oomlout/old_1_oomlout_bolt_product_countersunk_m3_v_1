@@ -1,4 +1,224 @@
 barcode_manufacturer_metalmate: '5050420056229'
+bip_39_word_dash_1: pyramid
+bip_39_word_dash_10: pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire
+bip_39_word_dash_11: pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire-toward
+bip_39_word_dash_12: pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire-toward-antenna
+bip_39_word_dash_2: pyramid-choose
+bip_39_word_dash_3: pyramid-choose-camp
+bip_39_word_dash_4: pyramid-choose-camp-card
+bip_39_word_dash_5: pyramid-choose-camp-card-adult
+bip_39_word_dash_6: pyramid-choose-camp-card-adult-transfer
+bip_39_word_dash_7: pyramid-choose-camp-card-adult-transfer-hover
+bip_39_word_dash_8: pyramid-choose-camp-card-adult-transfer-hover-rural
+bip_39_word_dash_9: pyramid-choose-camp-card-adult-transfer-hover-rural-ability
+bip_39_word_new_br_1: pyramid
+bip_39_word_new_br_10: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural<br>ability<br>hire
+bip_39_word_new_br_11: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural<br>ability<br>hire<br>toward
+bip_39_word_new_br_12: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural<br>ability<br>hire<br>toward<br>antenna
+bip_39_word_new_br_2: pyramid<br>choose
+bip_39_word_new_br_3: pyramid<br>choose<br>camp
+bip_39_word_new_br_4: pyramid<br>choose<br>camp<br>card
+bip_39_word_new_br_5: pyramid<br>choose<br>camp<br>card<br>adult
+bip_39_word_new_br_6: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer
+bip_39_word_new_br_7: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover
+bip_39_word_new_br_8: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural
+bip_39_word_new_br_9: pyramid<br>choose<br>camp<br>card<br>adult<br>transfer<br>hover<br>rural<br>ability
+bip_39_word_new_line_1: pyramid
+bip_39_word_new_line_10: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer
+
+  hover
+
+  rural
+
+  ability
+
+  hire'
+bip_39_word_new_line_11: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer
+
+  hover
+
+  rural
+
+  ability
+
+  hire
+
+  toward'
+bip_39_word_new_line_12: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer
+
+  hover
+
+  rural
+
+  ability
+
+  hire
+
+  toward
+
+  antenna'
+bip_39_word_new_line_2: 'pyramid
+
+  choose'
+bip_39_word_new_line_3: 'pyramid
+
+  choose
+
+  camp'
+bip_39_word_new_line_4: 'pyramid
+
+  choose
+
+  camp
+
+  card'
+bip_39_word_new_line_5: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult'
+bip_39_word_new_line_6: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer'
+bip_39_word_new_line_7: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer
+
+  hover'
+bip_39_word_new_line_8: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer
+
+  hover
+
+  rural'
+bip_39_word_new_line_9: 'pyramid
+
+  choose
+
+  camp
+
+  card
+
+  adult
+
+  transfer
+
+  hover
+
+  rural
+
+  ability'
+bip_39_word_no_space_1: pyramid
+bip_39_word_no_space_10: pyramidchoosecampcardadulttransferhoverruralabilityhire
+bip_39_word_no_space_11: pyramidchoosecampcardadulttransferhoverruralabilityhiretoward
+bip_39_word_no_space_12: pyramidchoosecampcardadulttransferhoverruralabilityhiretowardantenna
+bip_39_word_no_space_2: pyramidchoose
+bip_39_word_no_space_3: pyramidchoosecamp
+bip_39_word_no_space_4: pyramidchoosecampcard
+bip_39_word_no_space_5: pyramidchoosecampcardadult
+bip_39_word_no_space_6: pyramidchoosecampcardadulttransfer
+bip_39_word_no_space_7: pyramidchoosecampcardadulttransferhover
+bip_39_word_no_space_8: pyramidchoosecampcardadulttransferhoverrural
+bip_39_word_no_space_9: pyramidchoosecampcardadulttransferhoverruralability
+bip_39_word_space_0:
+- pyramid
+- choose
+- camp
+- card
+- adult
+- transfer
+- hover
+- rural
+- ability
+- hire
+- toward
+- antenna
+bip_39_word_space_1: pyramid
+bip_39_word_space_10: pyramid choose camp card adult transfer hover rural ability
+  hire
+bip_39_word_space_11: pyramid choose camp card adult transfer hover rural ability
+  hire toward
+bip_39_word_space_12: pyramid choose camp card adult transfer hover rural ability
+  hire toward antenna
+bip_39_word_space_2: pyramid choose
+bip_39_word_space_3: pyramid choose camp
+bip_39_word_space_4: pyramid choose camp card
+bip_39_word_space_5: pyramid choose camp card adult
+bip_39_word_space_6: pyramid choose camp card adult transfer
+bip_39_word_space_7: pyramid choose camp card adult transfer hover
+bip_39_word_space_8: pyramid choose camp card adult transfer hover rural
+bip_39_word_space_9: pyramid choose camp card adult transfer hover rural ability
+bip_39_word_underscore_1: pyramid
+bip_39_word_underscore_10: pyramid_choose_camp_card_adult_transfer_hover_rural_ability_hire
+bip_39_word_underscore_11: pyramid_choose_camp_card_adult_transfer_hover_rural_ability_hire_toward
+bip_39_word_underscore_12: pyramid_choose_camp_card_adult_transfer_hover_rural_ability_hire_toward_antenna
+bip_39_word_underscore_2: pyramid_choose
+bip_39_word_underscore_3: pyramid_choose_camp
+bip_39_word_underscore_4: pyramid_choose_camp_card
+bip_39_word_underscore_5: pyramid_choose_camp_card_adult
+bip_39_word_underscore_6: pyramid_choose_camp_card_adult_transfer
+bip_39_word_underscore_7: pyramid_choose_camp_card_adult_transfer_hover
+bip_39_word_underscore_8: pyramid_choose_camp_card_adult_transfer_hover_rural
+bip_39_word_underscore_9: pyramid_choose_camp_card_adult_transfer_hover_rural_ability
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware

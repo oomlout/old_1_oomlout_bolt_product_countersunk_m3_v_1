@@ -10,6 +10,7 @@
     "from_yaml": false,
     "make_files": "parts_source",
     "filter": "",
+    "name_short": "m3_countersunk_tin_label_serial_number",
     "classification_upper": "PROJECT",
     "classification_capital": "Project",
     "classification_first_letter": "p",

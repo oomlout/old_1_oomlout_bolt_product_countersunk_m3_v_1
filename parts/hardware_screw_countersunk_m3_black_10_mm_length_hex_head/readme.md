@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420056236 |  
+| barcode_manufacturer_metalmate | 5050420669054 |  
 | bip_39_word_dash_1 | wrong |  
 | bip_39_word_dash_10 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist |  
 | bip_39_word_dash_11 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist-poet |  
@@ -331,7 +331,7 @@ culture |
 | md5_6_alpha_upper | 2GXA2 |  
 | md5_6_upper | 3F4E7A |  
 | name | Hardware Screw Countersunk M3 Black 10 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 10 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991 (165) |  
+| name_manufacturer_metalmate | M3 x 10 Socket Csk Screw Gr10.9 Self Colour DIN 7991 165 |  
 | name_no_class | Screw Countersunk M3 Black 10 mm Length Hex Head |  
 | name_no_color | 10 mm Length Hex Head |  
 | name_no_size | Black 10 mm Length Hex Head |  
@@ -370,17 +370,17 @@ culture |
 | part_number_manufacturer_metalmate | 1151M390010 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0367 |  
-| price_100 | 0.0367 |  
-| price_1000 | 0.0183 |  
-| price_10000 | 0.0163 |  
-| price_10000_distributor_orbital_fasteners | 0.0163 |  
-| price_1000_distributor_orbital_fasteners | 0.0183 |  
-| price_100_distributor_orbital_fasteners | 0.0367 |  
-| price_1_distributor_orbital_fasteners | 0.0367 |  
-| price_200 | 0.0204 |  
-| price_200_distributor_orbital_fasteners | 0.0204 |  
-| price_current | 0.0204 |  
+| price_1 | 0.0294 |  
+| price_100 | 0.0294 |  
+| price_1000 | 0.0131 |  
+| price_10000 | 0.0131 |  
+| price_10000_distributor_orbital_fasteners | 0.0131 |  
+| price_1000_distributor_orbital_fasteners | 0.0131 |  
+| price_100_distributor_orbital_fasteners | 0.0294 |  
+| price_1_distributor_orbital_fasteners | 0.0294 |  
+| price_200 | 0.0163 |  
+| price_200_distributor_orbital_fasteners | 0.0163 |  
+| price_current | 0.0163 |  
 | project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 55 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 110 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 57.64 |  

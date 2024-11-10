@@ -18,6 +18,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * description_extra: hex_head
   * manufacturer: 
   * part_number: 
+  * bip 39 word 2: broken fancy
+  * bip 39 word 3: broken fancy swap
+  * bip 39 word: broken fancy swap apology pattern mention again want jeans post mystery age
 
 ### other_codes
 * short_code: cs3b16h
@@ -29,6 +32,145 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | broken |  
+| bip_39_word_dash_10 | broken-fancy-swap-apology-pattern-mention-again-want-jeans-post |  
+| bip_39_word_dash_11 | broken-fancy-swap-apology-pattern-mention-again-want-jeans-post-mystery |  
+| bip_39_word_dash_12 | broken-fancy-swap-apology-pattern-mention-again-want-jeans-post-mystery-age |  
+| bip_39_word_dash_2 | broken-fancy |  
+| bip_39_word_dash_3 | broken-fancy-swap |  
+| bip_39_word_dash_4 | broken-fancy-swap-apology |  
+| bip_39_word_dash_5 | broken-fancy-swap-apology-pattern |  
+| bip_39_word_dash_6 | broken-fancy-swap-apology-pattern-mention |  
+| bip_39_word_dash_7 | broken-fancy-swap-apology-pattern-mention-again |  
+| bip_39_word_dash_8 | broken-fancy-swap-apology-pattern-mention-again-want |  
+| bip_39_word_dash_9 | broken-fancy-swap-apology-pattern-mention-again-want-jeans |  
+| bip_39_word_new_br_1 | broken |  
+| bip_39_word_new_br_10 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post |  
+| bip_39_word_new_br_11 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post<br>mystery |  
+| bip_39_word_new_br_12 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post<br>mystery<br>age |  
+| bip_39_word_new_br_2 | broken<br>fancy |  
+| bip_39_word_new_br_3 | broken<br>fancy<br>swap |  
+| bip_39_word_new_br_4 | broken<br>fancy<br>swap<br>apology |  
+| bip_39_word_new_br_5 | broken<br>fancy<br>swap<br>apology<br>pattern |  
+| bip_39_word_new_br_6 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention |  
+| bip_39_word_new_br_7 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again |  
+| bip_39_word_new_br_8 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want |  
+| bip_39_word_new_br_9 | broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans |  
+| bip_39_word_new_line_1 | broken |  
+| bip_39_word_new_line_10 | broken
+fancy
+swap
+apology
+pattern
+mention
+again
+want
+jeans
+post |  
+| bip_39_word_new_line_11 | broken
+fancy
+swap
+apology
+pattern
+mention
+again
+want
+jeans
+post
+mystery |  
+| bip_39_word_new_line_12 | broken
+fancy
+swap
+apology
+pattern
+mention
+again
+want
+jeans
+post
+mystery
+age |  
+| bip_39_word_new_line_2 | broken
+fancy |  
+| bip_39_word_new_line_3 | broken
+fancy
+swap |  
+| bip_39_word_new_line_4 | broken
+fancy
+swap
+apology |  
+| bip_39_word_new_line_5 | broken
+fancy
+swap
+apology
+pattern |  
+| bip_39_word_new_line_6 | broken
+fancy
+swap
+apology
+pattern
+mention |  
+| bip_39_word_new_line_7 | broken
+fancy
+swap
+apology
+pattern
+mention
+again |  
+| bip_39_word_new_line_8 | broken
+fancy
+swap
+apology
+pattern
+mention
+again
+want |  
+| bip_39_word_new_line_9 | broken
+fancy
+swap
+apology
+pattern
+mention
+again
+want
+jeans |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenfancyswapapologypatternmentionagainwantjeanspost |  
+| bip_39_word_no_space_11 | brokenfancyswapapologypatternmentionagainwantjeanspostmystery |  
+| bip_39_word_no_space_12 | brokenfancyswapapologypatternmentionagainwantjeanspostmysteryage |  
+| bip_39_word_no_space_2 | brokenfancy |  
+| bip_39_word_no_space_3 | brokenfancyswap |  
+| bip_39_word_no_space_4 | brokenfancyswapapology |  
+| bip_39_word_no_space_5 | brokenfancyswapapologypattern |  
+| bip_39_word_no_space_6 | brokenfancyswapapologypatternmention |  
+| bip_39_word_no_space_7 | brokenfancyswapapologypatternmentionagain |  
+| bip_39_word_no_space_8 | brokenfancyswapapologypatternmentionagainwant |  
+| bip_39_word_no_space_9 | brokenfancyswapapologypatternmentionagainwantjeans |  
+| bip_39_word_space_0 | ['broken', 'fancy', 'swap', 'apology', 'pattern', 'mention', 'again', 'want', 'jeans', 'post', 'mystery', 'age'] |  
+| bip_39_word_space_1 | broken |  
+| bip_39_word_space_10 | broken fancy swap apology pattern mention again want jeans post |  
+| bip_39_word_space_11 | broken fancy swap apology pattern mention again want jeans post mystery |  
+| bip_39_word_space_12 | broken fancy swap apology pattern mention again want jeans post mystery age |  
+| bip_39_word_space_2 | broken fancy |  
+| bip_39_word_space_3 | broken fancy swap |  
+| bip_39_word_space_4 | broken fancy swap apology |  
+| bip_39_word_space_5 | broken fancy swap apology pattern |  
+| bip_39_word_space_6 | broken fancy swap apology pattern mention |  
+| bip_39_word_space_7 | broken fancy swap apology pattern mention again |  
+| bip_39_word_space_8 | broken fancy swap apology pattern mention again want |  
+| bip_39_word_space_9 | broken fancy swap apology pattern mention again want jeans |  
+| bip_39_word_underscore_1 | broken |  
+| bip_39_word_underscore_10 | broken_fancy_swap_apology_pattern_mention_again_want_jeans_post |  
+| bip_39_word_underscore_11 | broken_fancy_swap_apology_pattern_mention_again_want_jeans_post_mystery |  
+| bip_39_word_underscore_12 | broken_fancy_swap_apology_pattern_mention_again_want_jeans_post_mystery_age |  
+| bip_39_word_underscore_2 | broken_fancy |  
+| bip_39_word_underscore_3 | broken_fancy_swap |  
+| bip_39_word_underscore_4 | broken_fancy_swap_apology |  
+| bip_39_word_underscore_5 | broken_fancy_swap_apology_pattern |  
+| bip_39_word_underscore_6 | broken_fancy_swap_apology_pattern_mention |  
+| bip_39_word_underscore_7 | broken_fancy_swap_apology_pattern_mention_again |  
+| bip_39_word_underscore_8 | broken_fancy_swap_apology_pattern_mention_again_want |  
+| bip_39_word_underscore_9 | broken_fancy_swap_apology_pattern_mention_again_want_jeans |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -236,7 +378,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | price_current | 0.0249 |  
 | project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 35 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 70 |  
-| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 48.16 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 53.76 |  
 | quantity_current | 200 |  
 | short_code | cs3b16h |  
 | short_code_upper | CS3B16H |  
@@ -303,5 +445,5 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
-| weight | 0.688 |  
-| weight_10 | 6.88 |  
+| weight | 0.768 |  
+| weight_10 | 7.68 |  

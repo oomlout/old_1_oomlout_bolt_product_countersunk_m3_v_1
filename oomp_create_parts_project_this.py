@@ -94,9 +94,17 @@ def load_parts(**kwargs):
 
             parts.append(part_details)
 
-            
+        # serialized producion    
+        if True:
+            count = 10
+            for i in range(count):
+                part_details = copy.deepcopy(part_base)
+                part_details["description_main"] = "complete"
+                part_details["description_extra"] = str(i)                
+                part_details["name_short"] = f"m3_countersunk_tin_complete_{i}"
+                parts.append(part_details)
 
-
+                
 
     oomp.add_parts(parts, **kwargs)
 

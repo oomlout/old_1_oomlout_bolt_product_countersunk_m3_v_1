@@ -279,7 +279,9 @@ coyote |
 | id_no_color | reel_3dqf |  
 | id_no_size | pla_eco_black_reel_3dqf |  
 | id_no_type | 1_75_mm_pla_eco_black_reel_3dqf |  
+| link_buy | https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf |  
+| link_purchase | https://www.3dqf.co.uk/product-page/copy-of-eco-pla-10-pack-1-75mm-uk-made-3d-printer-filament-1kg |  
 | manufacturer | 3dqf |  
 | manufacturer_capital | 3Dqf |  
 | manufacturer_first_letter | 3 |  
@@ -339,8 +341,15 @@ coyote |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_current | 0.013325000000000002 |  
+| price_per | 0.008325 |  
+| price_per_1 | 0.013325000000000002 |  
+| price_per_100 | 0.008325 |  
+| price_per_gram | 0.008325 |  
+| price_per_kilogram | 13.325000000000001 |  
 | short_code |  |  
 | short_code_upper |  |  
+| short_name |  |  
 | size | 1_75_mm |  
 | size_capital | 1.75 mm |  
 | size_first_letter | 1 |  
@@ -403,3 +412,4 @@ coyote |
 | type_upper_length_4 | FILA |  
 | type_upper_length_5 | FILAM |  
 | type_upper_length_6 | FILAME |  
+| weight | 1 |  

@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420056281 |  
+| barcode_manufacturer_metalmate | 5050420669078 |  
 | bip_39_word_dash_1 | segment |  
 | bip_39_word_dash_10 | segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon |  
 | bip_39_word_dash_11 | segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon-such |  
@@ -331,7 +331,7 @@ friend |
 | md5_6_alpha_upper | 5ONAM |  
 | md5_6_upper | 91B0EE |  
 | name | Hardware Screw Countersunk M3 Black 25 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 25 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991 (165) |  
+| name_manufacturer_metalmate | M3 x 25 Socket Csk Screw Gr10.9 Self Colour DIN 7991 165 |  
 | name_no_class | Screw Countersunk M3 Black 25 mm Length Hex Head |  
 | name_no_color | 25 mm Length Hex Head |  
 | name_no_size | Black 25 mm Length Hex Head |  
@@ -370,20 +370,20 @@ friend |
 | part_number_manufacturer_metalmate | 1151M390025 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0529 |  
-| price_100 | 0.0529 |  
-| price_1000 | 0.0265 |  
-| price_10000 | 0.0235 |  
-| price_10000_distributor_orbital_fasteners | 0.0235 |  
-| price_1000_distributor_orbital_fasteners | 0.0265 |  
-| price_100_distributor_orbital_fasteners | 0.0529 |  
-| price_1_distributor_orbital_fasteners | 0.0529 |  
-| price_200 | 0.0294 |  
-| price_200_distributor_orbital_fasteners | 0.0294 |  
-| price_current | 0.0294 |  
+| price_1 | 0.0424 |  
+| price_100 | 0.0424 |  
+| price_1000 | 0.0188 |  
+| price_10000 | 0.0188 |  
+| price_10000_distributor_orbital_fasteners | 0.0188 |  
+| price_1000_distributor_orbital_fasteners | 0.0188 |  
+| price_100_distributor_orbital_fasteners | 0.0424 |  
+| price_1_distributor_orbital_fasteners | 0.0424 |  
+| price_200 | 0.0235 |  
+| price_200_distributor_orbital_fasteners | 0.0235 |  
+| price_current | 0.0235 |  
 | project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 20 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 40 |  
-| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 47.84 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 46.76 |  
 | quantity_current | 200 |  
 | short_code | cs3b25h |  
 | short_code_upper | CS3B25H |  
@@ -451,5 +451,5 @@ friend |
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
 | webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025 |  
-| weight | 1.196 |  
-| weight_10 | 11.96 |  
+| weight | 1.169 |  
+| weight_10 | 11.69 |  
