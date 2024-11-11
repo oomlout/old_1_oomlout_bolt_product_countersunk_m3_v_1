@@ -1,4 +1,4 @@
-barcode_manufacturer_metalmate: '5050420017503'
+barcode_manufacturer_metalmate: '5050420655088'
 bip_39_word_dash_1: nasty
 bip_39_word_dash_10: nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round
 bip_39_word_dash_11: nasty-dog-guess-horse-subject-typical-ordinary-name-pact-round-notable
@@ -306,7 +306,7 @@ md5_6_alpha: 3vb5b
 md5_6_alpha_upper: 3VB5B
 md5_6_upper: 632D2F
 name: Hardware Nut M3
-name_manufacturer_metalmate: M3 DIN934 (GR.8 DIN267) FULL NUT ZINC PLATED BOXED
+name_manufacturer_metalmate: M3 DIN934 Gr.8 DIN267 Full Nut Zinc Plated Boxed
 name_no_class: Nut M3
 name_no_color: M3
 name_no_size: M3
@@ -334,17 +334,17 @@ part_number_first_letter_upper: ''
 part_number_manufacturer_metalmate: Z0322M39
 part_number_name: ''
 part_number_upper: ''
-price_1: '0.0016'
-price_100: '0.0016'
-price_1000: '0.0016'
-price_10000: '0.0016'
-price_10000_distributor_orbital_fasteners: '0.0016'
-price_1000_distributor_orbital_fasteners: '0.0016'
-price_100_distributor_orbital_fasteners: '0.0016'
-price_1_distributor_orbital_fasteners: '0.0016'
-price_200: '0.0016'
-price_200_distributor_orbital_fasteners: '0.0016'
-price_current: '0.0016'
+price_1: '0.0038'
+price_100: '0.0038'
+price_1000: '0.0038'
+price_10000: '0.0017'
+price_10000_distributor_orbital_fasteners: '0.0017'
+price_1000_distributor_orbital_fasteners: '0.0038'
+price_100_distributor_orbital_fasteners: '0.0038'
+price_1_distributor_orbital_fasteners: '0.0038'
+price_200: '0.0038'
+price_200_distributor_orbital_fasteners: '0.0038'
+price_current: '0.0038'
 project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '125'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '250'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '79.66666667'

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW X6 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="76.2mm" height="50.8mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="76.2mm" height="50.8mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 7620 5080"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID1" horiz-adv-x="703" font-variant="normal" fill-rule="nonzero" font-style="normal" font-weight="700">
+  <font id="FontID1" horiz-adv-x="703" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
 	<font-face 
 		font-family="Segoe UI">
 	</font-face>
@@ -58,7 +58,7 @@ viewBox="0 0 7620 5080"
    <glyph unicode="6" horiz-adv-x="575"><path d="M542.009 232.836c0,-34.4974 -6.00941,-66.6704 -17.9999,-96.6608 -12.1889,-29.8486 -28.8565,-55.8422 -50.343,-77.8389 -21.4865,-21.9967 -46.9981,-39.1746 -76.6767,-51.6753 -29.6502,-12.6708 -61.9933,-18.8219 -97.1427,-18.8219 -39.3446,0 -74.6924,7.31334 -105.675,21.9967 -31.1809,14.4849 -57.5146,35.8297 -79.0011,63.6657 -21.3447,27.836 -37.8423,61.9933 -49.1808,102.33 -11.4802,40.3368 -17.1495,86.0026 -17.1495,137.168 0,60.1791 7.31334,114.831 22.1668,163.841 14.8251,48.9824 35.9998,90.8215 63.4957,125.659 27.4959,34.8376 60.8311,61.8232 99.8356,80.8436 39.1746,18.992 82.9979,28.6581 131.839,28.6581 54.1697,0 95.9805,-6.4913 125.999,-19.1621l0 -128.834c-35.5179,20.1542 -74.1822,30.1604 -116.163,30.1604 -26.0219,0 -49.691,-4.98894 -70.8373,-14.9952 -21.1747,-10.1763 -39.3446,-24.4912 -54.5099,-43.0013 -14.9952,-18.6802 -26.9857,-41.0171 -35.4895,-67.1807 -8.67396,-26.1636 -13.3511,-55.502 -14.0031,-87.6467l3.00471 0c33.1651,45.9777 82.1475,68.8248 146.834,68.8248 28.9982,0 55.3319,-5.15902 78.6609,-15.6755 23.4991,-10.318 43.4832,-25.0014 60.1508,-44.1635 16.4975,-18.992 29.3384,-41.8391 38.5226,-68.4846 9.15585,-26.8439 13.6629,-56.3524 13.6629,-89.0073zm-150.831 -9.66608c0,75.1743 -30.8408,112.818 -92.3522,112.818 -14.0031,0 -26.6738,-2.66455 -38.1541,-7.82357 -11.3385,-5.15902 -21.0046,-12.5007 -29.1683,-21.9967 -8.16373,-9.496 -14.5133,-20.6644 -18.8503,-33.5053 -4.30863,-12.8409 -6.66138,-26.9857 -6.66138,-42.6611 0,-17.3479 2.35274,-33.3352 6.83145,-48.3304 4.67714,-14.9952 10.9984,-28.1762 19.3322,-39.3446 8.33381,-11.1684 18.17,-20.1542 29.5085,-26.6738 11.5086,-6.4913 24.1794,-9.66608 38.1824,-9.66608 13.9747,0 26.4754,2.83463 37.8139,8.50388 11.1684,5.66926 20.8345,13.6629 28.8282,24.0093 8.022,10.1763 14.0031,22.5069 18.34,36.9919 4.1669,14.5133 6.34957,30.3305 6.34957,47.6784z"/></glyph>
    <glyph unicode="i" horiz-adv-x="284"><path d="M143.009 579.17c-26.0081,0 -47.339,7.6536 -63.8509,23.1734 -16.6537,15.4962 -24.9923,34.3231 -24.9923,56.8351 0,23.1498 8.33865,41.9767 24.9923,56.6461 16.5119,14.6694 37.8428,22.0159 63.8509,22.0159 26.4805,0 47.835,-7.34651 64.3233,-22.0159 16.323,-14.6694 24.6616,-33.4963 24.6616,-56.6461 0,-23.3388 -8.33865,-42.6854 -24.6616,-57.6855 -16.4883,-14.8348 -37.8428,-22.323 -64.3233,-22.323zm76.1581 -579.17l-154.159 0 0 500.012 154.159 0 0 -500.012z"/></glyph>
   </font>
-  <font id="FontID0" horiz-adv-x="382" font-variant="normal" fill-rule="nonzero" font-weight="400">
+  <font id="FontID0" horiz-adv-x="382" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Free 3 of 9 Extended">
 	</font-face>
@@ -70,22 +70,33 @@ viewBox="0 0 7620 5080"
    <glyph unicode="4" horiz-adv-x="382"><path d="M263.664 0l-25.3314 0 0 749.998 25.3314 0 0 -749.998zm-187.495 0l-25.3377 0 0 749.998 25.3377 0 0 -749.998zm-50.8378 0l-25.3314 0 0 749.998 25.3314 0 0 -749.998zm332.171 0l-68.5004 0 0 749.998 68.5004 0 0 -749.998zm-144.67 0l-68.3317 0 0 749.998 68.3317 0 0 -749.998z"/></glyph>
    <glyph unicode="6" horiz-adv-x="382"><path d="M306.664 0l-25.3314 0 0 749.998 25.3314 0 0 -749.998zm-281.333 0l-25.3314 0 0 749.998 25.3314 0 0 -749.998zm93.8381 0l-68.3379 0 0 749.998 68.3379 0 0 -749.998zm136.663 0l-68.3317 0 0 749.998 68.3317 0 0 -749.998zm101.669 0l-25.5002 0 0 749.998 25.5002 0 0 -749.998z"/></glyph>
   </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Segoe UI";src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Free 3 of 9 Extended";src:url("#FontID0") format(svg)}
+    .fil0 {fill:black}
+    .fnt3 {font-weight:bold;font-size:211.67;font-family:'Segoe UI'}
+    .fnt2 {font-weight:bold;font-size:352.78;font-family:'Segoe UI'}
+    .fnt1 {font-weight:bold;font-size:423.33;font-family:'Segoe UI'}
+    .fnt0 {font-weight:normal;font-size:1599.99;font-family:'Free 3 of 9 Extended'}
+   ]]>
+  </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g transform="matrix(1.0906 0 0 1 -323.091 1900)">
-   <text x="1360" y="2540"  fill="black" font-weight="normal" font-size="1599.99" font-family="Free 3 of 9 Extended">*6427A2*</text>
+  <g transform="matrix(1.0906 0 0 1 -1123.09 1900)">
+   <text x="1360" y="2540"  class="fil0 fnt0">*6427A2*</text>
   </g>
-  <text x="1500" y="665"  fill="black" font-weight="bold" font-size="423.33" font-family="Segoe UI">M3 Countersunk Screw </text>
-  <text x="1091" y="1229"  fill="black" font-weight="bold" font-size="423.33" font-family="Segoe UI">Prototyping Tin (Version 1)</text>
-  <text x="3179" y="4813"  fill="black" font-weight="bold" font-size="352.78" font-family="Segoe UI">6427A2</text>
-  <text x="3449" y="1936"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">sold by</text>
-  <text x="3039" y="2218"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">.:oomlout:. </text>
-  <text x="4183" y="2218"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">LTD</text>
-  <text x="1592" y="2499"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">address: 77 Savile Park Rd, Halifax, </text>
-  <text x="5117" y="2499"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">HX</text>
-  <text x="5429" y="2499"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">1 2</text>
-  <text x="5735" y="2499"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">XR</text>
-  <text x="2510" y="2781"  fill="black" font-weight="bold" font-size="211.67" font-family="Segoe UI">email: info@oomlout.com</text>
+  <text x="1500" y="665"  class="fil0 fnt1">M3 Countersunk Screw </text>
+  <text x="1091" y="1229"  class="fil0 fnt1">Prototyping Tin (Version 1)</text>
+  <text x="2379" y="4813"  class="fil0 fnt2">6427A2</text>
+  <text x="3449" y="1936"  class="fil0 fnt3">sold by</text>
+  <text x="3039" y="2218"  class="fil0 fnt3">.:oomlout:. </text>
+  <text x="4183" y="2218"  class="fil0 fnt3">LTD</text>
+  <text x="1592" y="2499"  class="fil0 fnt3">address: 77 Savile Park Rd, Halifax, </text>
+  <text x="5117" y="2499"  class="fil0 fnt3">HX</text>
+  <text x="5429" y="2499"  class="fil0 fnt3">1 2</text>
+  <text x="5735" y="2499"  class="fil0 fnt3">XR</text>
+  <text x="2510" y="2781"  class="fil0 fnt3">email: info@oomlout.com</text>
  </g>
 </svg>

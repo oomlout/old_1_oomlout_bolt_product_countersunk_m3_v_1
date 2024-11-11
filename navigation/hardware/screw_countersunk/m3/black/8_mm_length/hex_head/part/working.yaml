@@ -1,4 +1,4 @@
-barcode_manufacturer_metalmate: '5050420056229'
+barcode_manufacturer_metalmate: '5050420669047'
 bip_39_word_dash_1: pyramid
 bip_39_word_dash_10: pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire
 bip_39_word_dash_11: pyramid-choose-camp-card-adult-transfer-hover-rural-ability-hire-toward
@@ -379,7 +379,7 @@ md5_6_alpha: 65nh7
 md5_6_alpha_upper: 65NH7
 md5_6_upper: 9DCC1B
 name: Hardware Screw Countersunk M3 Black 8 mm Length Hex Head
-name_manufacturer_metalmate: M3 X 8 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991 (165)
+name_manufacturer_metalmate: M3 x 8 Socket Csk Screw Gr10.9 Self Colour DIN 7991 165
 name_no_class: Screw Countersunk M3 Black 8 mm Length Hex Head
 name_no_color: 8 mm Length Hex Head
 name_no_size: Black 8 mm Length Hex Head
@@ -424,17 +424,17 @@ part_number_first_letter_upper: ''
 part_number_manufacturer_metalmate: 1151M390008
 part_number_name: ''
 part_number_upper: ''
-price_1: '0.0356'
-price_100: '0.0356'
-price_1000: '0.0178'
-price_10000: '0.0158'
-price_10000_distributor_orbital_fasteners: '0.0158'
-price_1000_distributor_orbital_fasteners: '0.0178'
-price_100_distributor_orbital_fasteners: '0.0356'
-price_1_distributor_orbital_fasteners: '0.0356'
-price_200: '0.0198'
-price_200_distributor_orbital_fasteners: '0.0198'
-price_current: '0.0198'
+price_1: '0.0286'
+price_100: '0.0286'
+price_1000: '0.0127'
+price_10000: '0.0127'
+price_10000_distributor_orbital_fasteners: '0.0127'
+price_1000_distributor_orbital_fasteners: '0.0127'
+price_100_distributor_orbital_fasteners: '0.0286'
+price_1_distributor_orbital_fasteners: '0.0286'
+price_200: '0.0158'
+price_200_distributor_orbital_fasteners: '0.0158'
+price_current: '0.0158'
 project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '60'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '120'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '53.4'

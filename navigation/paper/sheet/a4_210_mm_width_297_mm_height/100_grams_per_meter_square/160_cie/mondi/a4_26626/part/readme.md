@@ -272,10 +272,16 @@ north |
 | description_or_color | 100 |  
 | description_or_color_upper | 100 |  
 | directory | parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626 |  
+| distributor_amazon | B000J6A58M |  
+| distributor_amazon_link | https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M |  
+| distributor_viking_direct | 12320 |  
+| distributor_viking_direct_link | https://www.viking-direct.co.uk/en/p/12320 |  
+| distributor_viking_note | free delivery over 59 pounds |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626 |  
+| height | 297 mm |  
 | id | paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626 |  
 | id_no_class | sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626 |  
 | id_no_color | 100gramspermetersquare160ciemondia426626 |  
@@ -337,6 +343,7 @@ north |
 | oomp_word_list | ['pushpin', 'cactus', 'airplane'] |  
 | part_number | a4_26626 |  
 | part_number_capital | A4.26626 |  
+| part_number_exact | A4-26626 |  
 | part_number_first_letter | a |  
 | part_number_first_letter_upper | A |  
 | part_number_length_1 | a |  
@@ -365,6 +372,9 @@ north |
 | part_number_upper_length_4 | A4_2 |  
 | part_number_upper_length_5 | A4_26 |  
 | part_number_upper_length_6 | A4_266 |  
+| price_1 | 0.020516666666666666 |  
+| price_1_distributor_amazon | 0.028316666666666664 |  
+| price_1_distributor_viking_direct | 0.020516666666666666 |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | a4_210_mm_width_297_mm_height |  
@@ -429,3 +439,5 @@ north |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| upc | 9003974411965 |  
+| width | 210 mm |  
