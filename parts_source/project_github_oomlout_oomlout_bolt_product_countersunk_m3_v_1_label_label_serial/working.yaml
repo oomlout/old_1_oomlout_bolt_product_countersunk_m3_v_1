@@ -1,0 +1,89 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_countersunk_m3_v_1
+color_capital: Oomlout Bolt Product Countersunk M3 V 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_COUNTERSUNK_M3_V_1
+description_extra: label_serial
+description_extra_capital: Label Serial
+description_extra_first_letter: l
+description_extra_first_letter_upper: L
+description_extra_upper: LABEL_SERIAL
+description_main: label
+description_main_capital: Label
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LABEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+id_no_class: github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+id_no_size: bolt_product_countersunk_m3_v_1_label_label_serial
+id_no_type: oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial)<br>[Project
+    Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Label Label Serial](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial)<br><br>'
+md5: f836d1037d72ff0e00d0720b6d12a0d8
+md5_10: f836d1037d
+md5_10_upper: F836D1037D
+md5_5: f836d
+md5_5_upper: F836D
+md5_6: f836d1
+md5_6_alpha: 9ono1
+md5_6_alpha_upper: 9ONO1
+md5_6_upper: F836D1
+name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Label Label Serial
+name_no_class: Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Label Label
+    Serial
+name_no_size: Bolt Product Countersunk M3 V 1 Label Label Serial
+name_no_size_short: Bolt Product Countersunk M3 V 1 Label Label Serial
+name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Label Label Serial
+name_short: m3_countersunk_tin_label_serial_number
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_label_label_serial
+oomp_word: seven rabbit pear
+oomp_word_emoji: ':seven: :rabbit: :pear:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':rabbit:'
+- ':pear:'
+oomp_word_list:
+- seven
+- rabbit
+- pear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
