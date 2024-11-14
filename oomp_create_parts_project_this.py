@@ -80,6 +80,8 @@ def load_parts(**kwargs):
 
             parts.append(part_details)
 
+            #tray
+
             part_details = copy.deepcopy(part_base)
             part_details["description_main"] = "tdpb"
             part_details["description_extra"] = "tray42d518"
@@ -94,7 +96,23 @@ def load_parts(**kwargs):
 
             parts.append(part_details)
 
-        # serialized producion    
+            tray_default = copy.deepcopy(part_details)
+
+            part_details = copy.deepcopy(tray_default)
+            part_details["part_number"] = "box_of_35"
+            parts.append(part_details)
+
+        # serialized producion
+        extras = ["","ready_to_ship"]
+        for extra in extras:
+            part_details = copy.deepcopy(part_base)
+            part_details["description_main"] = "complete"
+            part_details["description_extra"] = extra         
+            part_details["name_short"] = f"m3_countersunk_tin_complete"
+        
+
+
+        parts.append(part_details)    
         if True:
             count = 10
             for i in range(count):
