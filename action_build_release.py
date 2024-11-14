@@ -59,6 +59,45 @@ def main(**kwargs):
                         command = f"copy {source_full_2} {destination_2}"
                         print(f"Copying {source_full_2} to {destination_2}")
                         os.system(command)
+    
+    #copy the serilizes labels to one directory and compile
+    #single label directory release\print\company_detail\single
+    # source directory base
+    print("Copying and compiling labels")
+    
+    destination_directory = "release\\print\\company_detail\\single"
+    source_directory_base = "parts\\project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_"
+    source_file_name = "working_label_company_details"
+
+    max = 10000
+    for i in range(max):
+        source_directory = source_directory_base + str(i)
+        if os.path.exists(source_directory):
+            #copy the files
+            source = f"{source_directory}\\{source_file_name}.pdf"
+            destination = f"{destination_directory}\\{source_file_name}_{i}.pdf"
+            command = f"copy {source} {destination}"
+            print(f"     Copying {source} to {destination}")
+            os.system(command)           
+        else:
+            break
+                
+    #compile the labels
+    # source directory base
+    destination_file = "release\\print\\label_company_detail.pdf"
+    source_directory_base = "release\\print\\company_detail\\single\\"
+    #get all pdf in directory
+    import glob
+    files = glob.glob(f"{source_directory_base}*.pdf")
+    #join all pdfs into one
+    from PyPDF2 import PdfMerger
+    merger = PdfMerger()
+    print("Merging labels")
+    for pdf in files:
+        print(f"     Adding {pdf}")
+        merger.append(pdf)
+    merger.write(destination_file)
+    merger.close()
             
 
 

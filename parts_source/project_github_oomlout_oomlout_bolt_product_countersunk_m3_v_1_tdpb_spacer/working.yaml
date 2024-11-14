@@ -1,0 +1,93 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_countersunk_m3_v_1
+color_capital: Oomlout Bolt Product Countersunk M3 V 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_COUNTERSUNK_M3_V_1
+description_extra: spacer
+description_extra_capital: Spacer
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SPACER
+description_main: tdpb
+description_main_capital: Tdpb
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TDPB
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+distributors: []
+file_name: tin_spacer_quantity_1.stl
+file_name_full_oomlout: "C:\\gh\\oomlout_bolt_product_countersunk_m3_v_1/release\t\
+    hree_d_printer_files\\hinged_tin_version/tin_spacer_quantity_1.stl"
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+id_no_class: github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+id_no_size: bolt_product_countersunk_m3_v_1_tdpb_spacer
+id_no_type: oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+link_github: "https://github.com/oomlout/oomlout_bolt_product_countersunk_m3_v_1/blob/main/release\t\
+    hree_d_printer_files\\hinged_tin_version/tin_spacer_quantity_1.stl"
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer)<br>[Project
+    Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer)<br><br>'
+md5: 6db58d4dc3018bcc134c42e2160f8811
+md5_10: 6db58d4dc3
+md5_10_upper: 6DB58D4DC3
+md5_5: 6db58
+md5_5_upper: 6DB58
+md5_6: 6db58d
+md5_6_alpha: 4a3rh
+md5_6_alpha_upper: 4A3RH
+md5_6_upper: 6DB58D
+name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer
+name_no_class: Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer
+name_no_size: Bolt Product Countersunk M3 V 1 Tdpb Spacer
+name_no_size_short: Bolt Product Countersunk M3 V 1 Tdpb Spacer
+name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer
+name_short: prototyping_tin_spacer_t4066
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer
+oomp_word: shell tea scroll
+oomp_word_emoji: ':shell: :tea: :scroll:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':tea:'
+- ':scroll:'
+oomp_word_list:
+- shell
+- tea
+- scroll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

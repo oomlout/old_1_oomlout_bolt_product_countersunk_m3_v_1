@@ -1,0 +1,93 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_countersunk_m3_v_1
+color_capital: Oomlout Bolt Product Countersunk M3 V 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_COUNTERSUNK_M3_V_1
+description_extra: tray42d518
+description_extra_capital: Tray42D518
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TRAY42D518
+description_main: tdpb
+description_main_capital: Tdpb
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TDPB
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+distributors: []
+file_name: tray_4_width_2.5_height_18_mm_depth_quantity_4.stl
+file_name_full_oomlout: "C:\\gh\\oomlout_bolt_product_countersunk_m3_v_1/release\t\
+    hree_d_printer_files\\hinged_tin_version/tray_4_width_2.5_height_18_mm_depth_quantity_4.stl"
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+id_no_class: github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+id_no_size: bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+id_no_type: oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+link_github: "https://github.com/oomlout/oomlout_bolt_product_countersunk_m3_v_1/blob/main/release\t\
+    hree_d_printer_files\\hinged_tin_version/tray_4_width_2.5_height_18_mm_depth_quantity_4.stl"
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518)<br>[Project
+    Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Tray42D518](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518)<br><br>'
+md5: aa80e318f444a6e1a4b47abfb5499696
+md5_10: aa80e318f4
+md5_10_upper: AA80E318F4
+md5_5: aa80e
+md5_5_upper: AA80E
+md5_6: aa80e3
+md5_6_alpha: 6ni03
+md5_6_alpha_upper: 6NI03
+md5_6_upper: AA80E3
+name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Tray42D518
+name_no_class: Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Tray42D518
+name_no_size: Bolt Product Countersunk M3 V 1 Tdpb Tray42D518
+name_no_size_short: Bolt Product Countersunk M3 V 1 Tdpb Tray42D518
+name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Tray42D518
+name_short: prototyping_tin_tray_4_width_2.5_height_18_mm_depth
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_tray42d518
+oomp_word: lipstick hourglass rowboat
+oomp_word_emoji: ':lipstick: :hourglass: :rowboat:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':hourglass:'
+- ':rowboat:'
+oomp_word_list:
+- lipstick
+- hourglass
+- rowboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

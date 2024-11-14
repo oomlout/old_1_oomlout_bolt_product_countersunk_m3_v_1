@@ -14,7 +14,7 @@ def load_parts(**kwargs):
         part_details["classification"] = "project"
         part_details["type"] = "github"
         part_details["size"] = "oomlout"
-        part_details["color"] = "oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1"
+        part_details["color"] = "oomlout_bolt_product_countersunk_m3_v_1"
         part_details["description_main"] = ""
         part_details["description_extra"] = ""        
         part_details["manufacturer"] = ""
@@ -25,7 +25,7 @@ def load_parts(**kwargs):
         
         # label
         if True:
-            project_name = "oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1"
+            project_name = "oomlout_bolt_product_countersunk_m3_v_1"
             base_github = f"https://github.com/oomlout/{project_name}/blob/main"
             base_oomlout = f"C:\\gh\\{project_name}"
 

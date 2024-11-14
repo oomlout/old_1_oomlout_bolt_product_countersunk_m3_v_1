@@ -1,0 +1,88 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_countersunk_m3_v_1
+color_capital: Oomlout Bolt Product Countersunk M3 V 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_COUNTERSUNK_M3_V_1
+description_extra: '7'
+description_extra_capital: '7'
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: '7'
+description_main: complete
+description_main_capital: Complete
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: COMPLETE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+id_no_class: github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+id_no_size: bolt_product_countersunk_m3_v_1_complete_7
+id_no_type: oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7)<br>[Project
+    Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7)<br><br>'
+md5: ffd3520147c2c6a70064a5656c389508
+md5_10: ffd3520147
+md5_10_upper: FFD3520147
+md5_5: ffd35
+md5_5_upper: FFD35
+md5_6: ffd352
+md5_6_alpha: 9zck2
+md5_6_alpha_upper: 9ZCK2
+md5_6_upper: FFD352
+name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 7
+name_no_class: Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 7
+name_no_size: Bolt Product Countersunk M3 V 1 Complete 7
+name_no_size_short: Bolt Product Countersunk M3 V 1 Complete 7
+name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 7
+name_short: m3_countersunk_tin_complete_7
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_7
+oomp_word: trident tomato octopus
+oomp_word_emoji: ':trident: :tomato: :octopus:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':tomato:'
+- ':octopus:'
+oomp_word_list:
+- trident
+- tomato
+- octopus
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
