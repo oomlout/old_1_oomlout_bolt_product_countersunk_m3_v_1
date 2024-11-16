@@ -29,14 +29,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 5onam
 * md5_6: 91b0ee
 
-
-
-
-
-
-
-
-
 ### all codes 
 | key | value |  
 | --- | --- |  

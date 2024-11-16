@@ -1,0 +1,90 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_countersunk_m3_v_1
+color_capital: Oomlout Bolt Product Countersunk M3 V 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_COUNTERSUNK_M3_V_1
+description_extra: ready_to_ship
+description_extra_capital: Ready To Ship
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: READY_TO_SHIP
+description_main: complete
+description_main_capital: Complete
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: COMPLETE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+id_no_class: github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+id_no_size: bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+id_no_type: oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship)<br>[Project
+    Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete Ready To Ship](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship)<br><br>'
+md5: d4fa3ffdf294cd7bd7238c5a9c282f16
+md5_10: d4fa3ffdf2
+md5_10_upper: D4FA3FFDF2
+md5_5: d4fa3
+md5_5_upper: D4FA3
+md5_6: d4fa3f
+md5_6_alpha: 8b5tr
+md5_6_alpha_upper: 8B5TR
+md5_6_upper: D4FA3F
+name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete Ready
+    To Ship
+name_no_class: Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete Ready
+    To Ship
+name_no_size: Bolt Product Countersunk M3 V 1 Complete Ready To Ship
+name_no_size_short: Bolt Product Countersunk M3 V 1 Complete Ready To Ship
+name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete Ready To Ship
+name_short: m3_countersunk_tin_complete
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
+oomp_word: corn nine horse
+oomp_word_emoji: ':corn: :nine: :horse:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':nine:'
+- ':horse:'
+oomp_word_list:
+- corn
+- nine
+- horse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB

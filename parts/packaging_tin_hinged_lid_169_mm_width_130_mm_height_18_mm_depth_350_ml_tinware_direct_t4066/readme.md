@@ -29,14 +29,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6hoth
 * md5_6: a65de5
 
-
-
-
-
-
-
-
-
 ### all codes 
 | key | value |  
 | --- | --- |  

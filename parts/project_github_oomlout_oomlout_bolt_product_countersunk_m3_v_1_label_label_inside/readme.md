@@ -29,14 +29,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: siu1
 * md5_6: 144e59
 
-
-
-
-
-
-
-
-
 ### all codes 
 | key | value |  
 | --- | --- |  

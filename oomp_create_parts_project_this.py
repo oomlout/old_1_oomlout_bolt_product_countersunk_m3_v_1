@@ -80,6 +80,13 @@ def load_parts(**kwargs):
 
             parts.append(part_details)
 
+            spacer_default = copy.deepcopy(part_details)
+
+            part_details = copy.deepcopy(spacer_default)
+            part_details["part_number"] = "box_of_6"            
+            parts.append(part_details)
+
+
             #tray
 
             part_details = copy.deepcopy(part_base)

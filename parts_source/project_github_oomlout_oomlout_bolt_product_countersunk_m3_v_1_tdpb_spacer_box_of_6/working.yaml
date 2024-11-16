@@ -1,0 +1,95 @@
+classification: project
+classification_capital: Project
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PROJECT
+color: oomlout_bolt_product_countersunk_m3_v_1
+color_capital: Oomlout Bolt Product Countersunk M3 V 1
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_BOLT_PRODUCT_COUNTERSUNK_M3_V_1
+description_extra: spacer
+description_extra_capital: Spacer
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SPACER
+description_main: tdpb
+description_main_capital: Tdpb
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TDPB
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+distributors: []
+file_name: tin_spacer_quantity_1.stl
+file_name_full_oomlout: "C:\\gh\\oomlout_bolt_product_countersunk_m3_v_1/release\t\
+    hree_d_printer_files\\hinged_tin_version/tin_spacer_quantity_1.stl"
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+id_no_class: github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+id_no_size: bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+id_no_type: oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+link_github: "https://github.com/oomlout/oomlout_bolt_product_countersunk_m3_v_1/blob/main/release\t\
+    hree_d_printer_files\\hinged_tin_version/tin_spacer_quantity_1.stl"
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6)<br>[Project
+    Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer Box Of 6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6)<br><br>'
+markdown_short: '[project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6)<br><br>'
+md5: 0761df3d0a109af1401947eaad093bb0
+md5_10: 0761df3d0a
+md5_10_upper: 0761DF3D0A
+md5_5: 0761d
+md5_5_upper: 0761D
+md5_6: 0761df
+md5_6_alpha: adb3
+md5_6_alpha_upper: ADB3
+md5_6_upper: 0761DF
+name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer Box
+    Of 6
+name_no_class: Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer
+    Box Of 6
+name_no_size: Bolt Product Countersunk M3 V 1 Tdpb Spacer Box Of 6
+name_no_size_short: Bolt Product Countersunk M3 V 1 Tdpb Spacer Box Of 6
+name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Tdpb Spacer Box Of 6
+name_short: prototyping_tin_spacer_t4066
+oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_tdpb_spacer_box_of_6
+oomp_word: cry bouquet fountain
+oomp_word_emoji: ':cry: :bouquet: :fountain:'
+oomp_word_emoji_list:
+- ':cry:'
+- ':bouquet:'
+- ':fountain:'
+oomp_word_list:
+- cry
+- bouquet
+- fountain
+part_number: box_of_6
+part_number_capital: Box Of 6
+part_number_first_letter: b
+part_number_first_letter_upper: B
+part_number_upper: BOX_OF_6
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: github
+type_capital: Github
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GITHUB
