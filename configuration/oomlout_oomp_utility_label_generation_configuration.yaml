@@ -12,3 +12,5 @@
   file_output: label_15_mm_30_mm
 - file_template: template/working_label_company_details.svg.j2
   file_output: working_label_company_details
+- file_template: template/working_label_inside_individual_template.svg
+  file_output: working_label_inside_individual
